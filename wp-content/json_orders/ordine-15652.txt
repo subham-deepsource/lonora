@@ -1,0 +1,229 @@
+id -> 15652
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-27T12:19:48
+date_modified -> 2022-01-03T10:53:13
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 58.90
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_VEFJHEgYHO3fc
+billing -> Array
+	 (+)first_name -> Lucrezia
+	 (+)last_name -> Gabriele
+	 (+)company -> 
+	 (+)address_1 -> Via A. B. Sabin 16
+	 (+)address_2 -> 
+	 (+)city -> Tortora
+	 (+)state -> CS
+	 (+)postcode -> 87020
+	 (+)country -> IT
+	 (+)email -> gabrieleangelica56@gmail.com
+	 (+)phone -> 3381446882
+shipping -> Array
+	 (+)first_name -> Lucrezia
+	 (+)last_name -> Gabriele
+	 (+)company -> 
+	 (+)address_1 -> Via A. B. Sabin 16
+	 (+)address_2 -> 
+	 (+)city -> Tortora
+	 (+)state -> CS
+	 (+)postcode -> 87020
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> ch_3KBHF3HHOCz2PuPR0pb09gzr
+customer_ip_address -> 5.90.43.131
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; ART-L29; HMSCore 6.1.0.313) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 HuaweiBrowser/11.1.4.302 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-03T10:53:13
+date_paid -> 2021-12-27T12:19:52
+cart_hash -> 9f2bc9416da29fb8440cdfe937d472b9
+number -> 15652
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384100
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384101
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384102
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384103
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 384104
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384105
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384106
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384107
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 2046569239.1640603561
+	 (+)8 -> Array
+		 (++)id -> 384108
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384109
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_KqzD3DuTkHeVlv
+	 (+)10 -> Array
+		 (++)id -> 384110
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1KBHF1HHOCz2PuPRFVacFs0I
+	 (+)11 -> Array
+		 (++)id -> 384111
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3KBHF3HHOCz2PuPR0DcT2tKN
+	 (+)12 -> Array
+		 (++)id -> 384112
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384113
+		 (++)key -> _stripe_fee
+		 (++)value -> 1.07
+	 (+)14 -> Array
+		 (++)id -> 384114
+		 (++)key -> _stripe_net
+		 (++)value -> 57.83
+	 (+)15 -> Array
+		 (++)id -> 384115
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)16 -> Array
+		 (++)id -> 384123
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)17 -> Array
+		 (++)id -> 384124
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 447
+		 (++)name -> Tappeto SETA COLLECTION Beige
+		 (++)product_id -> 12501
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 14.50
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3814
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862672
+		 (++)price -> 14.5
+		 (++)parent_name -> 
+	 (+)1 -> Array
+		 (++)id -> 448
+		 (++)name -> Tappeto SETA COLLECTION  Grigio
+		 (++)product_id -> 12473
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 14.50
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3815
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862634
+		 (++)price -> 14.5
+		 (++)parent_name -> 
+	 (+)2 -> Array
+		 (++)id -> 449
+		 (++)name -> Tappeto PLAIN Beige - 57x280
+		 (++)product_id -> 11620
+		 (++)variation_id -> 11634
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3807
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x280
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x280
+			 (+++)1 -> Array
+				 (++++)id -> 3816
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860531
+		 (++)price -> 29.9
+		 (++)parent_name -> Tappeto PLAIN Beige
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 450
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3813
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto SETA COLLECTION Beige &times; 1, Tappeto SETA COLLECTION Grigio &times; 1, Tappeto PLAIN Beige - 57x280 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto SETA COLLECTION Beige &times; 1, Tappeto SETA COLLECTION Grigio &times; 1, Tappeto PLAIN Beige - 57x280 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-27T11:19:48
+date_modified_gmt -> 2022-01-03T09:53:13
+date_completed_gmt -> 2022-01-03T09:53:13
+date_paid_gmt -> 2021-12-27T11:19:52
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15652
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

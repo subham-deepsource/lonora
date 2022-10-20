@@ -1,0 +1,163 @@
+id -> 15671
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-10T19:09:44
+date_modified -> 2022-01-13T16:05:54
+discount_total -> 14.50
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 0.00
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_XZ4I4ffsXOHkX
+billing -> Array
+	 (+)first_name -> Elisa
+	 (+)last_name -> Beretta
+	 (+)company -> 
+	 (+)address_1 -> Via Monza 41
+	 (+)address_2 -> 
+	 (+)city -> Cernusco lombardone
+	 (+)state -> LC
+	 (+)postcode -> 23870
+	 (+)country -> IT
+	 (+)email -> elisaberetta97@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Elisa
+	 (+)last_name -> Beretta
+	 (+)company -> 
+	 (+)address_1 -> Via Monza 41
+	 (+)address_2 -> 
+	 (+)city -> Cernusco lombardone
+	 (+)state -> LC
+	 (+)postcode -> 23870
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> 
+payment_method_title -> 
+transaction_id -> 
+customer_ip_address -> 151.38.22.251
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; POT-LX1 Build/HUAWEIPOT-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Instagram 216.1.0.21.137 Android (29/10; 480dpi; 1080x2139; HUAWEI; POT-LX1; HWPOT-H; kirin710; it_IT; 339335857)
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:54
+date_paid -> 2022-01-10T19:09:44
+cart_hash -> 760f868bd064d9045031cc7ebb1a4258
+number -> 15671
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 385024
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 385025
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 385026
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 385027
+		 (++)key -> _billing_cf
+		 (++)value -> BRTLSE97L70C933B
+	 (+)4 -> Array
+		 (++)id -> 385028
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 385029
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 385031
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 385032
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1167777655.1639681737
+	 (+)8 -> Array
+		 (++)id -> 385033
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 385041
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)10 -> Array
+		 (++)id -> 385042
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 479
+		 (++)name -> Tappeto SETA COLLECTION  Grigio
+		 (++)product_id -> 12473
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4079
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862634
+		 (++)price -> 0
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 480
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 9
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4075
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto SETA COLLECTION Grigio &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto SETA COLLECTION Grigio &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 481
+		 (++)code -> 4t936ssr
+		 (++)discount -> 14.5
+		 (++)discount_tax -> 0
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4078
+				 (++++)key -> coupon_data
+				 (++++)value -> Array
+				 (++++)display_key -> coupon_data
+				 (++++)display_value -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-10T18:09:44
+date_modified_gmt -> 2022-01-13T15:05:54
+date_completed_gmt -> 2022-01-13T15:05:54
+date_paid_gmt -> 2022-01-10T18:09:44
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15671
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

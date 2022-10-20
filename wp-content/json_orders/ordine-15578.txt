@@ -1,0 +1,163 @@
+id -> 15578
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-16T10:34:59
+date_modified -> 2021-12-17T18:05:42
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 29.99
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_KEuvt45O357Ow
+billing -> Array
+	 (+)first_name -> Ester
+	 (+)last_name -> Saddi
+	 (+)company -> 
+	 (+)address_1 -> Via Vivaldi 5
+	 (+)address_2 -> 
+	 (+)city -> Sinnai
+	 (+)state -> CA
+	 (+)postcode -> 09048
+	 (+)country -> IT
+	 (+)email -> estersaddi98@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Ester
+	 (+)last_name -> Saddi
+	 (+)company -> 
+	 (+)address_1 -> Via Vivaldi 5
+	 (+)address_2 -> 
+	 (+)city -> Sinnai
+	 (+)state -> CA
+	 (+)postcode -> 09048
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 4HR242658M328101R
+customer_ip_address -> 94.35.114.163
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2021-12-17T18:05:42
+date_paid -> 2021-12-16T10:36:06
+cart_hash -> 4fbe94003f5d1bf5927d42d227cfdfab
+number -> 15578
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 381162
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 381163
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 381164
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 381165
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 381166
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 381167
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 381168
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 381169
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 2092941638.1639646911
+	 (+)8 -> Array
+		 (++)id -> 381170
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 381171
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 381173
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 381174
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.37
+	 (+)12 -> Array
+		 (++)id -> 381181
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 381182
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 437
+		 (++)name -> Tappeto Cotone MALAGA Beige SET
+		 (++)product_id -> 12356
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 22.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 22.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3707
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862405
+		 (++)price -> 22
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 438
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3706
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone MALAGA Beige SET &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Cotone MALAGA Beige SET &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-16T09:34:59
+date_modified_gmt -> 2021-12-17T17:05:42
+date_completed_gmt -> 2021-12-17T17:05:42
+date_paid_gmt -> 2021-12-16T09:36:06
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15578
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

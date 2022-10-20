@@ -1,0 +1,136 @@
+id -> 13628
+parent_id -> 0
+number -> 13628
+order_key -> wc_order_StgbAlG0Rj0j7
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2020-11-19T13:18:29
+date_created_gmt -> 2020-11-19T12:18:29
+date_modified -> 2020-11-19T15:49:44
+date_modified_gmt -> 2020-11-19T14:49:44
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 43.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 12
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> cerruti@softplaceweb.com
+	 (+)phone -> 1234567890
+shipping -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2020-11-19T13:20:42
+date_paid_gmt -> 2020-11-19T12:20:42
+date_completed -> 2020-11-19T15:49:44
+date_completed_gmt -> 2020-11-19T14:49:44
+cart_hash -> 16689036c758d59c6d0c8320be444a29
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 282393
+		 (++)key -> _billing_invoice_type
+		 (++)value -> invoice
+	 (+)1 -> Array
+		 (++)id -> 282394
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 282395
+		 (++)key -> _billing_piva
+		 (++)value -> 12345678901
+	 (+)3 -> Array
+		 (++)id -> 282396
+		 (++)key -> _billing_cf
+		 (++)value -> CRRSMN01D03A859K
+	 (+)4 -> Array
+		 (++)id -> 282397
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 282428
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 282445
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 301
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Ecru - 90x150
+		 (++)product_id -> 12448
+		 (++)variation_id -> 12456
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2514
+				 (++++)key -> pa_misura
+				 (++++)value -> 90x150
+			 (+++)1 -> Array
+				 (++++)id -> 2521
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862603
+		 (++)price -> 39
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 302
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2520
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Ecru - 90x150 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13628
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/12

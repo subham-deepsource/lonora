@@ -1,0 +1,4 @@
+code -> woocommerce_rest_cannot_view
+message -> Non puoi visualizzare questa risorsa.
+data -> Array
+	 (+)status -> 403

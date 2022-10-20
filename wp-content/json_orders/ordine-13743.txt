@@ -1,0 +1,159 @@
+id -> 13743
+parent_id -> 0
+number -> 13743
+order_key -> wc_order_DzqOidoNi9Be4
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2020-11-20T11:46:13
+date_created_gmt -> 2020-11-20T10:46:13
+date_modified -> 2020-11-20T11:49:37
+date_modified_gmt -> 2020-11-20T10:49:37
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 42.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 14
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Monica
+	 (+)last_name -> Avanzi
+	 (+)company -> 
+	 (+)address_1 -> Via De Mosso, 20
+	 (+)address_2 -> 
+	 (+)city -> Biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> monica@softplaceweb.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Monica
+	 (+)last_name -> Avanzi
+	 (+)company -> 
+	 (+)address_1 -> Via De Mosso, 20
+	 (+)address_2 -> 
+	 (+)city -> Biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2020-11-20T11:49:37
+date_paid_gmt -> 2020-11-20T10:49:37
+date_completed -> 2020-11-20T11:49:37
+date_completed_gmt -> 2020-11-20T10:49:37
+cart_hash -> 02e2e1b4342a42341bb7213355bde789
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 283228
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 283229
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 283230
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 283231
+		 (++)key -> _billing_cf
+		 (++)value -> VNZMNC90H63A859U
+	 (+)4 -> Array
+		 (++)id -> 283232
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 283373
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 283390
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 310
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Baby blu - 60x110
+		 (++)product_id -> 12457
+		 (++)variation_id -> 12463
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 19.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 19.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2598
+				 (++++)key -> pa_misura
+				 (++++)value -> 60x110
+			 (+++)1 -> Array
+				 (++++)id -> 2615
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862498
+		 (++)price -> 19
+	 (+)1 -> Array
+		 (++)id -> 311
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Ecru - 60x110
+		 (++)product_id -> 12448
+		 (++)variation_id -> 12454
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 19.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 19.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2608
+				 (++++)key -> pa_misura
+				 (++++)value -> 60x110
+			 (+++)1 -> Array
+				 (++++)id -> 2616
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862481
+		 (++)price -> 19
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 312
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2614
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Baby blu - 60x110 &times; 1, Tappeto Chenille TWO FACE CORITIBA Ecru - 60x110 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13743
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/14

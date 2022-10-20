@@ -1,0 +1,163 @@
+id -> 14600
+parent_id -> 0
+status -> failed
+currency -> EUR
+version -> 5.5.2
+prices_include_tax -> 
+date_created -> 2021-09-01T07:57:56
+date_modified -> 2021-09-01T07:57:58
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 51.99
+total_tax -> 0.00
+customer_id -> 48
+order_key -> wc_order_H8X1nN1QoDg9l
+billing -> Array
+	 (+)first_name -> Rita
+	 (+)last_name -> Guerrini
+	 (+)company -> 
+	 (+)address_1 -> Via A.Saffi 65
+	 (+)address_2 -> 
+	 (+)city -> Alfonsine
+	 (+)state -> RA
+	 (+)postcode -> 48011
+	 (+)country -> IT
+	 (+)email -> ritaguerrini59@gmail.com
+	 (+)phone -> 328 704 2239
+shipping -> Array
+	 (+)first_name -> Rita
+	 (+)last_name -> Guerrini
+	 (+)company -> 
+	 (+)address_1 -> Via A.Saffi 65
+	 (+)address_2 -> 
+	 (+)city -> Alfonsine
+	 (+)state -> RA
+	 (+)postcode -> 48011
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> 
+customer_ip_address -> 5.90.121.61
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; SM-A750FN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.159 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/333.0.0.30.119;]
+created_via -> checkout
+customer_note -> Chiamare con una telefonata prima di arrivare
+date_completed -> 
+date_paid -> 
+cart_hash -> 80e9d90c0d56ee9fa863295819da0240
+number -> 14600
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 356223
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 356224
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 356225
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 356226
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 356227
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 356228
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 356229
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 356230
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 405
+		 (++)name -> Tappeto Digital Chenille Ethnic C-1238 - 57x90
+		 (++)product_id -> 14138
+		 (++)variation_id -> 14146
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 18.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 18.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3425
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x90
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x90
+		 (++)sku -> 8052532863594
+		 (++)price -> 18
+		 (++)parent_name -> Tappeto Digital Chenille Ethnic C-1238
+	 (+)1 -> Array
+		 (++)id -> 406
+		 (++)name -> Tappeto Digital Chenille Ethnic C-1227 - 57x130
+		 (++)product_id -> 14109
+		 (++)variation_id -> 14117
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 26.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 26.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3435
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x130
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x130
+		 (++)sku -> 8052532863686
+		 (++)price -> 26
+		 (++)parent_name -> Tappeto Digital Chenille Ethnic C-1227
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 407
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3441
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Ethnic C-1238 - 57x90 &times; 1, Tappeto Digital Chenille Ethnic C-1227 - 57x130 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Ethnic C-1238 - 57x90 &times; 1, Tappeto Digital Chenille Ethnic C-1227 - 57x130 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-09-01T05:57:56
+date_modified_gmt -> 2021-09-01T05:57:58
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14600
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/48

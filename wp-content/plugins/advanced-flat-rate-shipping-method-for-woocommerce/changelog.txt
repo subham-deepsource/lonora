@@ -1,0 +1,43 @@
+** Advanced Flat Rate Shipping For WooCommerce Changelog **
+== Changelog ==
+2021-09-01 - version 4.6
+* Fixed - Minor bug
+* Compatible with WooCommerce Product Bundles
+* Compatible with YITH WooCommerce Product Bundles
+* Compatible with WooCommerce 5.6.x
+* Compatible with WordPress 5.8.x
+
+2021-06-29 - version 4.5
+* Fixed - Call to a member function get_slugs()
+* Compatible with WooCommerce 5.4.x
+* Compatible with WordPress 5.7.x
+
+2021-06-01 - version 4.4
+* Fixed - Attribute based condition not working
+* Fixed - Minor bug
+* Compatible with WooCommerce 5.3.x
+* Compatible with WordPress 5.7.x
+
+2021-01-04 - version 4.3
+* Fixed - Multiple state selected then only first working
+* Fixed - Fully compatible with WPML plugin
+* Compatible with WooCommerce 4.8.x
+* Compatible with WordPress 5.6.x
+
+2020-08-06 - version 4.2
+* New - Cart contains product qty in general rule
+* Fix - Validation issue - Product category subtotal in advance pricing rules
+* Fix - Shipping tax issue in cart, checkout, order and admin order side - When select forceall shipping with separate shipping option
+* Fix - When enter postcode with lowercase at front side and define admin side with uppercase then it was issuing
+* Fix - Cart contains category product issue with variable products in apply per qty section
+* Fix - Shipping class issue with variable product - When change variation for variable product to virtual
+* Compatible with WooCommerce 4.3.x
+* Compatible with WordPress 5.4.x
+
+2020-05-06 - version 4.1
+* Minor bug fixing.
+* Compatible with WooCommerce 4.0.x
+* Compatible with WordPress 5.4.x
+
+2019-10-25 - version 4.0
+* Initial release

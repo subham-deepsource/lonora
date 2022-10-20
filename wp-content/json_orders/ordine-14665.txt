@@ -1,0 +1,192 @@
+id -> 14665
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.6.0
+prices_include_tax -> 
+date_created -> 2021-10-08T10:28:38
+date_modified -> 2021-10-08T10:30:27
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 105.99
+total_tax -> 0.00
+customer_id -> 53
+order_key -> wc_order_nOy6XwYW4t8d4
+billing -> Array
+	 (+)first_name -> Daniela
+	 (+)last_name -> Boccacci
+	 (+)company -> 
+	 (+)address_1 -> Via Veronelli 4
+	 (+)address_2 -> 4
+	 (+)city -> Sesto Fiorentino
+	 (+)state -> FI
+	 (+)postcode -> 50019
+	 (+)country -> IT
+	 (+)email -> d.boccacci@alice.it
+	 (+)phone -> 3381386257
+shipping -> Array
+	 (+)first_name -> Daniela
+	 (+)last_name -> Boccacci
+	 (+)company -> 
+	 (+)address_1 -> Via Veronelli 4
+	 (+)address_2 -> 4
+	 (+)city -> Sesto Fiorentino
+	 (+)state -> FI
+	 (+)postcode -> 50019
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_3JiERYHHOCz2PuPR0txIO6fZ
+customer_ip_address -> 93.47.229.40
+customer_user_agent -> Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-10-08T10:30:27
+cart_hash -> 3a5b2173f10af984bafec948c800cdb1
+number -> 14665
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 360935
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 360936
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 360937
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 360938
+		 (++)key -> _billing_cf
+		 (++)value -> BCCDNL50L60D612L
+	 (+)4 -> Array
+		 (++)id -> 360939
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 360940
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 360941
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 360942
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)8 -> Array
+		 (++)id -> 360943
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_KMyO5WMuycvHEe
+	 (+)9 -> Array
+		 (++)id -> 360944
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1JiERSHHOCz2PuPRcDKUUbXN
+	 (+)10 -> Array
+		 (++)id -> 360945
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3JiERYHHOCz2PuPR0dGvRhnn
+	 (+)11 -> Array
+		 (++)id -> 360946
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)12 -> Array
+		 (++)id -> 360947
+		 (++)key -> _stripe_fee
+		 (++)value -> 1.73
+	 (+)13 -> Array
+		 (++)id -> 360948
+		 (++)key -> _stripe_net
+		 (++)value -> 104.26
+	 (+)14 -> Array
+		 (++)id -> 360949
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)15 -> Array
+		 (++)id -> 360957
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)16 -> Array
+		 (++)id -> 360958
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+	 (+)17 -> Array
+		 (++)id -> 360962
+		 (++)key -> _ga_tracked
+		 (++)value -> 1
+	 (+)18 -> Array
+		 (++)id -> 360963
+		 (++)key -> _wc_facebook_for_woocommerce_purchase_tracked
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 417
+		 (++)name -> Tappeto Digital Chenille Jungle C-2354 - 140x200
+		 (++)product_id -> 14175
+		 (++)variation_id -> 14181
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 98.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 98.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3529
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+			 (+++)1 -> Array
+				 (++++)id -> 3536
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864126
+		 (++)price -> 98
+		 (++)parent_name -> Tappeto Digital Chenille Jungle C-2354
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 418
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3535
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle C-2354 - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle C-2354 - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-10-08T08:28:38
+date_modified_gmt -> 2021-10-08T08:30:27
+date_completed_gmt -> 
+date_paid_gmt -> 2021-10-08T08:30:27
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14665
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/53

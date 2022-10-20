@@ -1,0 +1,191 @@
+id -> 15577
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-16T00:30:10
+date_modified -> 2021-12-17T18:05:37
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 33.70
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_JcwXfgic3N6tx
+billing -> Array
+	 (+)first_name -> maria cristina
+	 (+)last_name -> bicego
+	 (+)company -> 
+	 (+)address_1 -> via fabio filzi
+	 (+)address_2 -> 52
+	 (+)city -> valdagno
+	 (+)state -> VI
+	 (+)postcode -> 36078
+	 (+)country -> IT
+	 (+)email -> bicegomariacristina@gmail.com
+	 (+)phone -> 3495351674
+shipping -> Array
+	 (+)first_name -> Anna santina
+	 (+)last_name -> Tommasi
+	 (+)company -> 
+	 (+)address_1 -> via Trieste
+	 (+)address_2 -> 6
+	 (+)city -> Valdagno
+	 (+)state -> VI
+	 (+)postcode -> 36078
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 9NM27947BJ013601G
+customer_ip_address -> 87.0.181.21
+customer_user_agent -> Mozilla/5.0 (Linux; Android 8.0.0; SM-A520F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2021-12-17T18:05:37
+date_paid -> 2021-12-16T00:31:38
+cart_hash -> 26172a860fc6273a834abeee60b96896
+number -> 15577
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 381079
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 381080
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 381081
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 381082
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 381083
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 381084
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 381085
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 381086
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 2137128586.1639610174
+	 (+)8 -> Array
+		 (++)id -> 381087
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 381088
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 381090
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 381091
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.50
+	 (+)12 -> Array
+		 (++)id -> 381098
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 381099
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 434
+		 (++)name -> Tappeto DIGITAL COOKING Peppers - 50x180
+		 (++)product_id -> 11872
+		 (++)variation_id -> 11882
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 19.20
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 19.20
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3674
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x180
+			 (+++)1 -> Array
+				 (++++)id -> 3690
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860913
+		 (++)price -> 19.2
+		 (++)parent_name -> Tappeto DIGITAL COOKING Peppers
+	 (+)1 -> Array
+		 (++)id -> 435
+		 (++)name -> Tappeto SETA COLLECTION Blu
+		 (++)product_id -> 12494
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 14.50
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3691
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862665
+		 (++)price -> 14.5
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 436
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3689
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto DIGITAL COOKING Peppers - 50x180 &times; 1, Tappeto SETA COLLECTION Blu &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto DIGITAL COOKING Peppers - 50x180 &times; 1, Tappeto SETA COLLECTION Blu &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-15T23:30:10
+date_modified_gmt -> 2021-12-17T17:05:37
+date_completed_gmt -> 2021-12-17T17:05:37
+date_paid_gmt -> 2021-12-15T23:31:38
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15577
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

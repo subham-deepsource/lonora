@@ -1,0 +1,179 @@
+id -> 14405
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.4.1
+prices_include_tax -> 
+date_created -> 2021-07-09T17:50:29
+date_modified -> 2021-07-09T17:54:26
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 105.99
+total_tax -> 0.00
+customer_id -> 32
+order_key -> wc_order_3CfV9AGAN0oZz
+billing -> Array
+	 (+)first_name -> Monia
+	 (+)last_name -> Montagna
+	 (+)company -> 
+	 (+)address_1 -> Lungomare Alighieri 98
+	 (+)address_2 -> 
+	 (+)city -> Senigallia
+	 (+)state -> AN
+	 (+)postcode -> 60019
+	 (+)country -> IT
+	 (+)email -> monia.28@libero.it
+	 (+)phone -> 3287920988
+shipping -> Array
+	 (+)first_name -> Monia
+	 (+)last_name -> Montagna
+	 (+)company -> 
+	 (+)address_1 -> Lungomare Alighieri 98
+	 (+)address_2 -> 
+	 (+)city -> Senigallia
+	 (+)state -> AN
+	 (+)postcode -> 60019
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_1JBM20HHOCz2PuPRjQkVdg7I
+customer_ip_address -> 185.76.57.253
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; CPH1941 Build/QKQ1.200209.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/326.0.0.34.120;]
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-07-09T17:54:26
+cart_hash -> 429cc808c67e180fdb6636c351bbaf73
+number -> 14405
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 355361
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 355362
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 355363
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 355364
+		 (++)key -> _billing_cf
+		 (++)value -> MNTMNO70R68I608B
+	 (+)4 -> Array
+		 (++)id -> 355365
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 355366
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 355368
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Jozyxo1RnUfrcy
+	 (+)7 -> Array
+		 (++)id -> 355369
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1JBM1tHHOCz2PuPRNDVEbK49
+	 (+)8 -> Array
+		 (++)id -> 355370
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_1JBLyEHHOCz2PuPRgPq4hYoe
+	 (+)9 -> Array
+		 (++)id -> 355371
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)10 -> Array
+		 (++)id -> 355372
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)11 -> Array
+		 (++)id -> 355373
+		 (++)key -> _stripe_fee
+		 (++)value -> 1.73
+	 (+)12 -> Array
+		 (++)id -> 355374
+		 (++)key -> _stripe_net
+		 (++)value -> 104.26
+	 (+)13 -> Array
+		 (++)id -> 355375
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)14 -> Array
+		 (++)id -> 355383
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)15 -> Array
+		 (++)id -> 355384
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 391
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14128
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 98.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 98.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3311
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+			 (+++)1 -> Array
+				 (++++)id -> 3318
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864096
+		 (++)price -> 98
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 392
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3317
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-07-09T15:50:29
+date_modified_gmt -> 2021-07-09T15:54:26
+date_completed_gmt -> 
+date_paid_gmt -> 2021-07-09T15:54:26
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14405
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/32

@@ -1,0 +1,177 @@
+id -> 21205
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-04-28T16:43:41
+date_modified -> 2022-04-28T16:44:34
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.90
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_3oTj3GLvtQT4h
+billing -> Array
+	 (+)first_name -> Stefano
+	 (+)last_name -> Moliterni
+	 (+)company -> 
+	 (+)address_1 -> Parco Diana 5
+	 (+)address_2 -> 
+	 (+)city -> Castellaneta
+	 (+)state -> TA
+	 (+)postcode -> 74011
+	 (+)country -> IT
+	 (+)email -> mondoimmondo@hotmail.it
+	 (+)phone -> 3289733101
+shipping -> Array
+	 (+)first_name -> Stefano
+	 (+)last_name -> Moliterni
+	 (+)company -> 
+	 (+)address_1 -> Parco Diana 5
+	 (+)address_2 -> 
+	 (+)city -> Castellaneta
+	 (+)state -> TA
+	 (+)postcode -> 74011
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 3E812844TV432462L
+customer_ip_address -> 151.15.73.111
+customer_user_agent -> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2022-04-28T16:44:34
+cart_hash -> 617a397e76ae788233a321bbaa11177e
+number -> 21205
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 452211
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 452212
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 452213
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 452214
+		 (++)key -> _billing_cf
+		 (++)value -> MLTSFN86L02E038S
+	 (+)4 -> Array
+		 (++)id -> 452215
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 452216
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 452217
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 452218
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 688542158.1651156871
+	 (+)8 -> Array
+		 (++)id -> 452219
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 452220
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)10 -> Array
+		 (++)id -> 452221
+		 (++)key -> _wc_facebook_for_woocommerce_purchase_tracked
+		 (++)value -> yes
+	 (+)11 -> Array
+		 (++)id -> 452222
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)12 -> Array
+		 (++)id -> 452224
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)13 -> Array
+		 (++)id -> 452225
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.60
+	 (+)14 -> Array
+		 (++)id -> 452232
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)15 -> Array
+		 (++)id -> 452233
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 490
+		 (++)name -> Tappeto PLAIN Nero - 57x280
+		 (++)product_id -> 11695
+		 (++)variation_id -> 11709
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 36.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 36.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4157
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x280
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x280
+			 (+++)1 -> Array
+				 (++++)id -> 4164
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860456
+		 (++)price -> 36.9
+		 (++)parent_name -> Tappeto PLAIN Nero
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 491
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4163
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto PLAIN Nero - 57x280 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto PLAIN Nero - 57x280 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-04-28T14:43:41
+date_modified_gmt -> 2022-04-28T14:44:34
+date_completed_gmt -> 
+date_paid_gmt -> 2022-04-28T14:44:34
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/21205
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

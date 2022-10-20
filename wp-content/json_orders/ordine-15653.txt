@@ -1,0 +1,172 @@
+id -> 15653
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-27T13:05:38
+date_modified -> 2022-01-03T10:53:13
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 21.79
+total_tax -> 0.00
+customer_id -> 63
+order_key -> wc_order_grszHaxFu8xO9
+billing -> Array
+	 (+)first_name -> ANTONELLA
+	 (+)last_name -> GIACOMELLI
+	 (+)company -> 
+	 (+)address_1 -> VIA SOPRABURE 174
+	 (+)address_2 -> 
+	 (+)city -> PISTOIA
+	 (+)state -> PT
+	 (+)postcode -> 51100
+	 (+)country -> IT
+	 (+)email -> antonella.giacomelli60@gmail.com
+	 (+)phone -> 3929193876
+shipping -> Array
+	 (+)first_name -> ANTONELLA
+	 (+)last_name -> GIACOMELLI
+	 (+)company -> 
+	 (+)address_1 -> VIA SOPRABURE 174
+	 (+)address_2 -> 
+	 (+)city -> PISTOIA
+	 (+)state -> PT
+	 (+)postcode -> 51100
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 91776033WF843745F
+customer_ip_address -> 193.207.218.83
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-03T10:53:13
+date_paid -> 2021-12-27T13:06:20
+cart_hash -> d123a173095d965b5bc9987aece1a7d6
+number -> 15653
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384164
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384165
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384166
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384167
+		 (++)key -> _billing_cf
+		 (++)value -> GCMNNL60R54G713R
+	 (+)4 -> Array
+		 (++)id -> 384168
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384169
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384170
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384171
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1002134599.1640606062
+	 (+)8 -> Array
+		 (++)id -> 384172
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384173
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 384175
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 384176
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.09
+	 (+)12 -> Array
+		 (++)id -> 384183
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384184
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 451
+		 (++)name -> Tappeto PLAIN Marrone - 50x130
+		 (++)product_id -> 11680
+		 (++)variation_id -> 11691
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 13.80
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 13.80
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3826
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x130
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x130
+			 (+++)1 -> Array
+				 (++++)id -> 3833
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860494
+		 (++)price -> 13.8
+		 (++)parent_name -> Tappeto PLAIN Marrone
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 452
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3832
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto PLAIN Marrone - 50x130 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto PLAIN Marrone - 50x130 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-27T12:05:38
+date_modified_gmt -> 2022-01-03T09:53:13
+date_completed_gmt -> 2022-01-03T09:53:13
+date_paid_gmt -> 2021-12-27T12:06:20
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15653
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/63

@@ -1,0 +1,182 @@
+id -> 13746
+parent_id -> 0
+number -> 13746
+order_key -> wc_order_40XYCG1KFHKPR
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2020-11-20T11:48:53
+date_created_gmt -> 2020-11-20T10:48:53
+date_modified -> 2020-11-20T11:49:41
+date_modified_gmt -> 2020-11-20T10:49:41
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 100.00
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 12
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> cerruti@softplaceweb.com
+	 (+)phone -> 1234567890
+shipping -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2020-11-20T11:49:41
+date_paid_gmt -> 2020-11-20T10:49:41
+date_completed -> 2020-11-20T11:49:41
+date_completed_gmt -> 2020-11-20T10:49:41
+cart_hash -> 1c95cba381f17cf1d9dd9cb37bb92ff6
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 283301
+		 (++)key -> _billing_invoice_type
+		 (++)value -> invoice
+	 (+)1 -> Array
+		 (++)id -> 283302
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 283303
+		 (++)key -> _billing_piva
+		 (++)value -> 12345678901
+	 (+)3 -> Array
+		 (++)id -> 283304
+		 (++)key -> _billing_cf
+		 (++)value -> CRRSMN01D03A859K
+	 (+)4 -> Array
+		 (++)id -> 283305
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 283392
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 283409
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 313
+		 (++)name -> Tappeto VINTAGE SAX Rosso - 100x150
+		 (++)product_id -> 12643
+		 (++)variation_id -> 12645
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 45.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 45.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2626
+				 (++++)key -> pa_misura
+				 (++++)value -> 100x150
+			 (+++)1 -> Array
+				 (++++)id -> 2653
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532863136
+		 (++)price -> 45
+	 (+)1 -> Array
+		 (++)id -> 314
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Grigio - 90x150
+		 (++)product_id -> 12421
+		 (++)variation_id -> 12429
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2636
+				 (++++)key -> pa_misura
+				 (++++)value -> 90x150
+			 (+++)1 -> Array
+				 (++++)id -> 2654
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862573
+		 (++)price -> 39
+	 (+)2 -> Array
+		 (++)id -> 315
+		 (++)name -> Tappeto DIGITAL COOKING Flowers wall - 50x130
+		 (++)product_id -> 11860
+		 (++)variation_id -> 11869
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2646
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x130
+			 (+++)1 -> Array
+				 (++++)id -> 2655
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532860784
+		 (++)price -> 16
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 316
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2652
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto VINTAGE SAX Rosso - 100x150 &times; 1, Tappeto Chenille TWO FACE CORITIBA Grigio - 90x150 &times; 1, Tappeto DIGITAL COOKING Flowers wall - 50x130 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13746
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/12

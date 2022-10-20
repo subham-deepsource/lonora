@@ -1,0 +1,171 @@
+id -> 14370
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.4.1
+prices_include_tax -> 
+date_created -> 2021-06-30T23:05:25
+date_modified -> 2021-06-30T23:05:29
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.99
+total_tax -> 0.00
+customer_id -> 26
+order_key -> wc_order_iVgPECUBEB8Gn
+billing -> Array
+	 (+)first_name -> Federica
+	 (+)last_name -> Gentili
+	 (+)company -> 
+	 (+)address_1 -> Via Giovanni Verga 9
+	 (+)address_2 -> 
+	 (+)city -> CASALMAIOCCO
+	 (+)state -> LO
+	 (+)postcode -> 26831
+	 (+)country -> IT
+	 (+)email -> gentili_federica@yahoo.it
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Federica
+	 (+)last_name -> Gentili
+	 (+)company -> 
+	 (+)address_1 -> Via Giovanni Verga 9
+	 (+)address_2 -> 
+	 (+)city -> CASALMAIOCCO
+	 (+)state -> LO
+	 (+)postcode -> 26831
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_1J8Ab5HHOCz2PuPRE2v4B0Zm
+customer_ip_address -> 95.232.144.215
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; POCOPHONE F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-06-30T23:05:29
+cart_hash -> 2c3f8a24aa628ba65a99c79db19e92e4
+number -> 14370
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 354804
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 354805
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 354806
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 354807
+		 (++)key -> _billing_cf
+		 (++)value -> GNTFRC81A48M102O
+	 (+)4 -> Array
+		 (++)id -> 354808
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 354809
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Jli1qCRrx8ynP1
+	 (+)6 -> Array
+		 (++)id -> 354810
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1J8AazHHOCz2PuPRWzNx59h6
+	 (+)7 -> Array
+		 (++)id -> 354811
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_1J8Ab5HHOCz2PuPRG848rXgb
+	 (+)8 -> Array
+		 (++)id -> 354812
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 354813
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.77
+	 (+)10 -> Array
+		 (++)id -> 354814
+		 (++)key -> _stripe_net
+		 (++)value -> 36.22
+	 (+)11 -> Array
+		 (++)id -> 354815
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)12 -> Array
+		 (++)id -> 354823
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)13 -> Array
+		 (++)id -> 354824
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 373
+		 (++)name -> Tappeto DIGITAL COOKING Flowers wall - 50x230
+		 (++)product_id -> 11860
+		 (++)variation_id -> 11871
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3171
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x230
+			 (+++)1 -> Array
+				 (++++)id -> 3178
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532861026
+		 (++)price -> 29
+		 (++)parent_name -> Tappeto DIGITAL COOKING Flowers wall
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 374
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3177
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto DIGITAL COOKING Flowers wall - 50x230 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto DIGITAL COOKING Flowers wall - 50x230 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-06-30T21:05:25
+date_modified_gmt -> 2021-06-30T21:05:29
+date_completed_gmt -> 
+date_paid_gmt -> 2021-06-30T21:05:29
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14370
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/26

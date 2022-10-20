@@ -1,0 +1,160 @@
+id -> 13848
+parent_id -> 0
+number -> 13848
+order_key -> wc_order_H7PlsXbRQgdj3
+created_via -> checkout
+version -> 4.5.2
+status -> processing
+currency -> EUR
+date_created -> 2020-12-22T11:40:28
+date_created_gmt -> 2020-12-22T10:40:28
+date_modified -> 2020-12-22T11:40:35
+date_modified_gmt -> 2020-12-22T10:40:35
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 15.79
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 18
+customer_ip_address -> ::ffff:5.170.21.83
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+customer_note -> 
+billing -> Array
+	 (+)first_name -> CARLO
+	 (+)last_name -> MAGALINO
+	 (+)company -> 
+	 (+)address_1 -> VIA VXX APRILE 30/3
+	 (+)address_2 -> 
+	 (+)city -> Borgio Verezzi
+	 (+)state -> SV
+	 (+)postcode -> 17022
+	 (+)country -> IT
+	 (+)email -> carlomagalino@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> CARLO
+	 (+)last_name -> MAGALINO
+	 (+)company -> 
+	 (+)address_1 -> VIA VXX APRILE 30/3
+	 (+)address_2 -> 
+	 (+)city -> Borgio Verezzi
+	 (+)state -> SV
+	 (+)postcode -> 17022
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_1I18IAHHOCz2PuPRwnZ1Qbmw
+date_paid -> 2020-12-22T11:40:35
+date_paid_gmt -> 2020-12-22T10:40:35
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> bc597d5dc79e748600108bc183b1a598
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 288196
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 288197
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 288198
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 288199
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 288200
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 288201
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_IUtHTTbMnAu1yC
+	 (+)6 -> Array
+		 (++)id -> 288202
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1I18I4HHOCz2PuPROEXpnH8p
+	 (+)7 -> Array
+		 (++)id -> 288203
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_1I18I9HHOCz2PuPRO17K4Aur
+	 (+)8 -> Array
+		 (++)id -> 288204
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 288205
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.47
+	 (+)10 -> Array
+		 (++)id -> 288206
+		 (++)key -> _stripe_net
+		 (++)value -> 15.32
+	 (+)11 -> Array
+		 (++)id -> 288207
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)12 -> Array
+		 (++)id -> 288237
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 347
+		 (++)name -> Tappeto PLAIN Lilla - 50x110
+		 (++)product_id -> 11665
+		 (++)variation_id -> 11675
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 10.80
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 10.80
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2949
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x110
+			 (+++)1 -> Array
+				 (++++)id -> 2956
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532860289
+		 (++)price -> 10.8
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 348
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2955
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto PLAIN Lilla - 50x110 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13848
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/18

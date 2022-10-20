@@ -1,0 +1,194 @@
+id -> 15655
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-29T14:01:59
+date_modified -> 2022-01-13T16:05:52
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 33.90
+total_tax -> 0.00
+customer_id -> 64
+order_key -> wc_order_x77o2MWwvql3I
+billing -> Array
+	 (+)first_name -> Chiara
+	 (+)last_name -> Gorgone
+	 (+)company -> 
+	 (+)address_1 -> Contrada Cresta 460
+	 (+)address_2 -> 
+	 (+)city -> Naso
+	 (+)state -> ME
+	 (+)postcode -> 98074
+	 (+)country -> IT
+	 (+)email -> chiaragorg@yahoo.it
+	 (+)phone -> 3661475565
+shipping -> Array
+	 (+)first_name -> Chiara
+	 (+)last_name -> Gorgone
+	 (+)company -> 
+	 (+)address_1 -> Contrada Cresta 460
+	 (+)address_2 -> 
+	 (+)city -> Naso
+	 (+)state -> ME
+	 (+)postcode -> 98074
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 88D46180X7085594P
+customer_ip_address -> 151.74.81.170
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A515F/A515FXXU5EUJ4) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:52
+date_paid -> 2021-12-29T14:03:10
+cart_hash -> 488bb6de79690608134fc02126c674e7
+number -> 15655
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384286
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384287
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384288
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384289
+		 (++)key -> _billing_cf
+		 (++)value -> GRGCHR79E54G377N
+	 (+)4 -> Array
+		 (++)id -> 384290
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384291
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384292
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384293
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 208780508.1640699883
+	 (+)8 -> Array
+		 (++)id -> 384294
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384295
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 384297
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 384298
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.50
+	 (+)12 -> Array
+		 (++)id -> 384305
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384306
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 456
+		 (++)name -> Tappeto Digital Chenille Azulejo C-3725 - 57x180
+		 (++)product_id -> 14055
+		 (++)variation_id -> 14066
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3871
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x180
+			 (+++)1 -> Array
+				 (++++)id -> 3887
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532863211
+		 (++)price -> 29
+		 (++)parent_name -> Tappeto Digital Chenille Azulejo C-3725
+	 (+)1 -> Array
+		 (++)id -> 457
+		 (++)name -> Snappy mat COIMBRA
+		 (++)product_id -> 14011
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 4.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 4.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3888
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864560
+		 (++)price -> 4.9
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 458
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3886
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Azulejo C-3725 - 57x180 &times; 1, Snappy mat COIMBRA &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Azulejo C-3725 - 57x180 &times; 1, Snappy mat COIMBRA &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-29T13:01:59
+date_modified_gmt -> 2022-01-13T15:05:52
+date_completed_gmt -> 2022-01-13T15:05:52
+date_paid_gmt -> 2021-12-29T13:03:10
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15655
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/64

@@ -1,0 +1,160 @@
+id -> 13833
+parent_id -> 0
+number -> 13833
+order_key -> wc_order_AHvWZoiBmLjAF
+created_via -> checkout
+version -> 4.5.2
+status -> processing
+currency -> EUR
+date_created -> 2020-12-02T12:27:33
+date_created_gmt -> 2020-12-02T11:27:33
+date_modified -> 2020-12-02T12:27:39
+date_modified_gmt -> 2020-12-02T11:27:39
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 33.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 18
+customer_ip_address -> ::ffff:195.32.39.32
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+customer_note -> 
+billing -> Array
+	 (+)first_name -> CARLO
+	 (+)last_name -> MAGALINO
+	 (+)company -> 
+	 (+)address_1 -> VIA VXX APRILE 30/3
+	 (+)address_2 -> 
+	 (+)city -> Borgio Verezzi
+	 (+)state -> SV
+	 (+)postcode -> 17022
+	 (+)country -> IT
+	 (+)email -> carlomagalino@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> CARLO
+	 (+)last_name -> MAGALINO
+	 (+)company -> 
+	 (+)address_1 -> VIA VXX APRILE 30/3
+	 (+)address_2 -> 
+	 (+)city -> Borgio Verezzi
+	 (+)state -> SV
+	 (+)postcode -> 17022
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_1HttUjHHOCz2PuPRsxn3hxpN
+date_paid -> 2020-12-02T12:27:39
+date_paid_gmt -> 2020-12-02T11:27:39
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> 8d2654ec3624f44e0b49c1fc356631dd
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 285459
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 285460
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 285461
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 285462
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 285463
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 285464
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_IUtHTTbMnAu1yC
+	 (+)6 -> Array
+		 (++)id -> 285465
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1HttUcHHOCz2PuPRL5QMULeg
+	 (+)7 -> Array
+		 (++)id -> 285466
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_1HttUiHHOCz2PuPRF478HT51
+	 (+)8 -> Array
+		 (++)id -> 285467
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 285468
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.73
+	 (+)10 -> Array
+		 (++)id -> 285469
+		 (++)key -> _stripe_net
+		 (++)value -> 33.26
+	 (+)11 -> Array
+		 (++)id -> 285470
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)12 -> Array
+		 (++)id -> 285500
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 345
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Rosso - 70x140
+		 (++)product_id -> 12430
+		 (++)variation_id -> 12437
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2932
+				 (++++)key -> pa_misura
+				 (++++)value -> 70x140
+			 (+++)1 -> Array
+				 (++++)id -> 2939
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862528
+		 (++)price -> 29
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 346
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2938
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Rosso - 70x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13833
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/18

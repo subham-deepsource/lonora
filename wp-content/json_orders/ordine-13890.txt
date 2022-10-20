@@ -1,0 +1,136 @@
+id -> 13890
+parent_id -> 0
+number -> 13890
+order_key -> wc_order_be39ZedmqjdZ0
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2021-02-08T10:15:20
+date_created_gmt -> 2021-02-08T09:15:20
+date_modified -> 2021-02-08T10:17:07
+date_modified_gmt -> 2021-02-08T09:17:07
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 52.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 12
+customer_ip_address -> 79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> cerruti@softplaceweb.com
+	 (+)phone -> 1234567890
+shipping -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2021-02-08T10:17:07
+date_paid_gmt -> 2021-02-08T09:17:07
+date_completed -> 2021-02-08T10:17:07
+date_completed_gmt -> 2021-02-08T09:17:07
+cart_hash -> f4f56f4b8c31e2972a8459e248615e85
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 314296
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 314297
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 314298
+		 (++)key -> _billing_piva
+		 (++)value -> 12345678901
+	 (+)3 -> Array
+		 (++)id -> 314299
+		 (++)key -> _billing_cf
+		 (++)value -> CRRSMN01D03A859K
+	 (+)4 -> Array
+		 (++)id -> 314300
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 314332
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 314349
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 353
+		 (++)name -> Tappeto DIGITAL COOKING Lemon - 50x180
+		 (++)product_id -> 11752
+		 (++)variation_id -> 11762
+		 (++)quantity -> 2
+		 (++)tax_class -> 
+		 (++)subtotal -> 48.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 48.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3000
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x180
+			 (+++)1 -> Array
+				 (++++)id -> 3007
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 2
+		 (++)sku -> 8052532860814
+		 (++)price -> 24
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 354
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3006
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto DIGITAL COOKING Lemon - 50x180 &times; 2
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13890
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/12

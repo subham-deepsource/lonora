@@ -1,0 +1,214 @@
+id -> 14685
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.8.0
+prices_include_tax -> 
+date_created -> 2021-11-06T10:03:52
+date_modified -> 2021-11-06T10:04:42
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 102.90
+total_tax -> 0.00
+customer_id -> 57
+order_key -> wc_order_xqwU0mx6d0FEw
+billing -> Array
+	 (+)first_name -> RICCARDO
+	 (+)last_name -> ZNIDARCIC
+	 (+)company -> 
+	 (+)address_1 -> VIA CANTON 28
+	 (+)address_2 -> 
+	 (+)city -> ROMA
+	 (+)state -> RM
+	 (+)postcode -> 00144
+	 (+)country -> IT
+	 (+)email -> zriki1956@hotmail.com
+	 (+)phone -> 3334074260
+shipping -> Array
+	 (+)first_name -> RICCARDO
+	 (+)last_name -> ZNIDARCIC
+	 (+)company -> 
+	 (+)address_1 -> VIA CANTON 28
+	 (+)address_2 -> 
+	 (+)city -> ROMA
+	 (+)state -> RM
+	 (+)postcode -> 00144
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_3JskoZHHOCz2PuPR0HdO6opK
+customer_ip_address -> 151.24.7.120
+customer_user_agent -> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-11-06T10:04:42
+cart_hash -> 6e1004eaf871d17c21dd4efcfd6cfa67
+number -> 14685
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 361131
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 361132
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 361133
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 361134
+		 (++)key -> _billing_cf
+		 (++)value -> ZNDRCR56D22336J
+	 (+)4 -> Array
+		 (++)id -> 361135
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 361136
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 361137
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 361138
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)8 -> Array
+		 (++)id -> 361139
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_KXqVan7vR04aPC
+	 (+)9 -> Array
+		 (++)id -> 361140
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1JskoQHHOCz2PuPRCGbFXslh
+	 (+)10 -> Array
+		 (++)id -> 361141
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3JskoZHHOCz2PuPR0qpPmKMc
+	 (+)11 -> Array
+		 (++)id -> 361142
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)12 -> Array
+		 (++)id -> 361143
+		 (++)key -> _stripe_fee
+		 (++)value -> 1.69
+	 (+)13 -> Array
+		 (++)id -> 361144
+		 (++)key -> _stripe_net
+		 (++)value -> 101.21
+	 (+)14 -> Array
+		 (++)id -> 361145
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)15 -> Array
+		 (++)id -> 361153
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)16 -> Array
+		 (++)id -> 361154
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+	 (+)17 -> Array
+		 (++)id -> 361158
+		 (++)key -> _ga_tracked
+		 (++)value -> 1
+	 (+)18 -> Array
+		 (++)id -> 361159
+		 (++)key -> _wc_facebook_for_woocommerce_purchase_tracked
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 419
+		 (++)name -> Snappy mat OPORTO
+		 (++)product_id -> 14009
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 4.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 4.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3562
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864553
+		 (++)price -> 4.9
+		 (++)parent_name -> 
+	 (+)1 -> Array
+		 (++)id -> 420
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14128
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 98.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 98.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3555
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+			 (+++)1 -> Array
+				 (++++)id -> 3563
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864096
+		 (++)price -> 98
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 421
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3561
+				 (++++)key -> Prodotti
+				 (++++)value -> Snappy mat OPORTO &times; 1, Tappeto Digital Chenille Jungle 14-ALEKS - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Snappy mat OPORTO &times; 1, Tappeto Digital Chenille Jungle 14-ALEKS - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-11-06T09:03:52
+date_modified_gmt -> 2021-11-06T09:04:42
+date_completed_gmt -> 
+date_paid_gmt -> 2021-11-06T09:04:42
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14685
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/57

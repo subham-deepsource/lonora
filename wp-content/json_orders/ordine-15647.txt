@@ -1,0 +1,225 @@
+id -> 15647
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-19T12:24:23
+date_modified -> 2022-01-03T10:53:12
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 61.00
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_UiIuP78vEUv76
+billing -> Array
+	 (+)first_name -> Francesco
+	 (+)last_name -> Fevola
+	 (+)company -> 
+	 (+)address_1 -> Via Antonio Bagatella 6
+	 (+)address_2 -> 
+	 (+)city -> Padova
+	 (+)state -> PD
+	 (+)postcode -> 35132
+	 (+)country -> IT
+	 (+)email -> pasqualesds@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Francesco
+	 (+)last_name -> Fevola
+	 (+)company -> 
+	 (+)address_1 -> Via Antonio Bagatella 6
+	 (+)address_2 -> 
+	 (+)city -> Padova
+	 (+)state -> PD
+	 (+)postcode -> 35132
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 22K79649CK910133Y
+customer_ip_address -> 151.75.178.165
+customer_user_agent -> Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-03T10:53:12
+date_paid -> 2021-12-19T12:27:42
+cart_hash -> 00ddc8fa1008f5241a9a3107ddbfd8fd
+number -> 15647
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 383936
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 383937
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 383938
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 383939
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 383940
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 383941
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 383942
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 383943
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 319830725.1639556624
+	 (+)8 -> Array
+		 (++)id -> 383944
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 383945
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 383947
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 383948
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 2.42
+	 (+)12 -> Array
+		 (++)id -> 383955
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 383956
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 441
+		 (++)name -> Tappeto Digital Chenille Ethnic C-1227 - 57x180
+		 (++)product_id -> 14109
+		 (++)variation_id -> 14121
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3734
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x180
+			 (+++)1 -> Array
+				 (++++)id -> 3761
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532863693
+		 (++)price -> 29
+		 (++)parent_name -> Tappeto Digital Chenille Ethnic C-1227
+	 (+)1 -> Array
+		 (++)id -> 442
+		 (++)name -> Tappeto Cotone MALAGA Beige - 60x120
+		 (++)product_id -> 12348
+		 (++)variation_id -> 12354
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3744
+				 (++++)key -> pa_misura
+				 (++++)value -> 60x120
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 60x120
+			 (+++)1 -> Array
+				 (++++)id -> 3762
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862283
+		 (++)price -> 16
+		 (++)parent_name -> Tappeto Cotone MALAGA Beige
+	 (+)2 -> Array
+		 (++)id -> 443
+		 (++)name -> Tappeto Cotone MALAGA Grigio - 60x120
+		 (++)product_id -> 12316
+		 (++)variation_id -> 12322
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3754
+				 (++++)key -> pa_misura
+				 (++++)value -> 60x120
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 60x120
+			 (+++)1 -> Array
+				 (++++)id -> 3763
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862269
+		 (++)price -> 16
+		 (++)parent_name -> Tappeto Cotone MALAGA Grigio
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 444
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3760
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Ethnic C-1227 - 57x180 &times; 1, Tappeto Cotone MALAGA Beige - 60x120 &times; 1, Tappeto Cotone MALAGA Grigio - 60x120 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Ethnic C-1227 - 57x180 &times; 1, Tappeto Cotone MALAGA Beige - 60x120 &times; 1, Tappeto Cotone MALAGA Grigio - 60x120 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-19T11:24:23
+date_modified_gmt -> 2022-01-03T09:53:12
+date_completed_gmt -> 2022-01-03T09:53:12
+date_paid_gmt -> 2021-12-19T11:27:42
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15647
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

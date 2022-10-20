@@ -1,0 +1,120 @@
+id -> 14359
+parent_id -> 0
+number -> 14359
+order_key -> wc_order_4Gfp6AXXJrqWF
+created_via -> admin
+version -> 4.5.2
+status -> pending
+currency -> EUR
+date_created -> 2021-06-28T15:04:06
+date_created_gmt -> 2021-06-28T13:04:06
+date_modified -> 2021-06-28T15:05:55
+date_modified_gmt -> 2021-06-28T13:05:55
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 82.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 24
+customer_ip_address -> 
+customer_user_agent -> 
+customer_note -> Consegna primo pomeriggio
+billing -> Array
+	 (+)first_name -> Roberta
+	 (+)last_name -> Scapolan
+	 (+)company -> 
+	 (+)address_1 -> via meduna
+	 (+)address_2 -> 29
+	 (+)city -> Mansuè
+	 (+)state -> TV
+	 (+)postcode -> 31040
+	 (+)country -> IT
+	 (+)email -> robynoemi79@stefano.o
+	 (+)phone -> 3475921355
+shipping -> Array
+	 (+)first_name -> Roberta
+	 (+)last_name -> Scapolan
+	 (+)company -> 
+	 (+)address_1 -> via meduna
+	 (+)address_2 -> 29
+	 (+)city -> Mansuè
+	 (+)state -> TV
+	 (+)postcode -> 31040
+	 (+)country -> IT
+payment_method -> 
+payment_method_title -> 
+transaction_id -> 
+date_paid -> 
+date_paid_gmt -> 
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> 
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 354617
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)1 -> Array
+		 (++)id -> 354618
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)2 -> Array
+		 (++)id -> 354619
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)3 -> Array
+		 (++)id -> 354620
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 354621
+		 (++)key -> _billing_piva
+		 (++)value -> 
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 369
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14130
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 75.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 75.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3139
+				 (++++)key -> pa_misura
+				 (++++)value -> 120x180
+		 (++)sku -> 8052532864089
+		 (++)price -> 75
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 370
+		 (++)method_title -> Spedizione
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 0
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14359
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/24

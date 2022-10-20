@@ -1,0 +1,124 @@
+id -> 13973
+parent_id -> 0
+number -> 13973
+order_key -> wc_order_TP7PDa3PBDoWM
+created_via -> checkout
+version -> 4.5.2
+status -> cancelled
+currency -> EUR
+date_created -> 2021-05-11T11:41:19
+date_created_gmt -> 2021-05-11T09:41:19
+date_modified -> 2021-05-11T12:13:56
+date_modified_gmt -> 2021-05-11T10:13:56
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 33.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 22
+customer_ip_address -> 151.33.232.129
+customer_user_agent -> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Lucia
+	 (+)last_name -> Fava
+	 (+)company -> 
+	 (+)address_1 -> Via Petigat 5
+	 (+)address_2 -> 
+	 (+)city -> Aosta
+	 (+)state -> AO
+	 (+)postcode -> 11100
+	 (+)country -> IT
+	 (+)email -> luciafava.to@gmail.com
+	 (+)phone -> 3381362344
+shipping -> Array
+	 (+)first_name -> Lucia
+	 (+)last_name -> Fava
+	 (+)company -> 
+	 (+)address_1 -> Via Petigat 5
+	 (+)address_2 -> 
+	 (+)city -> Aosta
+	 (+)state -> AO
+	 (+)postcode -> 11100
+	 (+)country -> IT
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 
+date_paid -> 
+date_paid_gmt -> 
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> 6abbe9486052bbc25fdbcf6830ba7475
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 344638
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 344639
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 344640
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 344641
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 344642
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 361
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Marrone - 70x140
+		 (++)product_id -> 12412
+		 (++)variation_id -> 12419
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3072
+				 (++++)key -> pa_misura
+				 (++++)value -> 70x140
+		 (++)sku -> 8052532862504
+		 (++)price -> 29
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 362
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3078
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Marrone - 70x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13973
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/22

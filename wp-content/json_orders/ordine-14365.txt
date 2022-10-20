@@ -1,0 +1,144 @@
+id -> 14365
+parent_id -> 0
+number -> 14365
+order_key -> wc_order_jV9CLwbFnou1J
+created_via -> checkout
+version -> 4.5.2
+status -> processing
+currency -> EUR
+date_created -> 2021-06-29T20:26:04
+date_created_gmt -> 2021-06-29T18:26:04
+date_modified -> 2021-06-29T20:27:19
+date_modified_gmt -> 2021-06-29T18:27:19
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 46.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 25
+customer_ip_address -> 5.168.218.173
+customer_user_agent -> Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1
+customer_note -> In caso non fosse presente nessuno in casa il pacco può essere consegnato al negozio a fianco SPENDIBENE
+billing -> Array
+	 (+)first_name -> Mauro
+	 (+)last_name -> Lughi
+	 (+)company -> 
+	 (+)address_1 -> Via Pescheria 7
+	 (+)address_2 -> 
+	 (+)city -> Cesena
+	 (+)state -> FC
+	 (+)postcode -> 47521
+	 (+)country -> IT
+	 (+)email -> maurolughi@gmail.com
+	 (+)phone -> 3387501600
+shipping -> Array
+	 (+)first_name -> Mauro
+	 (+)last_name -> Lughi
+	 (+)company -> 
+	 (+)address_1 -> Via Pescheria 7
+	 (+)address_2 -> 
+	 (+)city -> Cesena
+	 (+)state -> FC
+	 (+)postcode -> 47521
+	 (+)country -> IT
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 8UY08337K2578333R
+date_paid -> 2021-06-29T20:27:19
+date_paid_gmt -> 2021-06-29T18:27:19
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> 30c918168024c7ee7a151b4e57acbb84
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 354699
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 354700
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 354701
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 354702
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 354703
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 354704
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)6 -> Array
+		 (++)id -> 354706
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)7 -> Array
+		 (++)id -> 354707
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.95
+	 (+)8 -> Array
+		 (++)id -> 354714
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 371
+		 (++)name -> Tappeto Digital Chenille Vintage C-4044 - 80x140
+		 (++)product_id -> 14226
+		 (++)variation_id -> 14233
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3154
+				 (++++)key -> pa_misura
+				 (++++)value -> 80x140
+			 (+++)1 -> Array
+				 (++++)id -> 3161
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532864195
+		 (++)price -> 39
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 372
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3160
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Vintage C-4044 - 80x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14365
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/25

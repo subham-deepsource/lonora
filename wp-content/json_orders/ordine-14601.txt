@@ -1,0 +1,141 @@
+id -> 14601
+parent_id -> 0
+status -> cancelled
+currency -> EUR
+version -> 5.5.2
+prices_include_tax -> 
+date_created -> 2021-09-07T21:21:34
+date_modified -> 2021-09-07T21:40:22
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 46.99
+total_tax -> 0.00
+customer_id -> 49
+order_key -> wc_order_wE6lFLtUiWYJF
+billing -> Array
+	 (+)first_name -> Ana nicoleta
+	 (+)last_name -> Iacob
+	 (+)company -> 
+	 (+)address_1 -> Pietro nenni 22
+	 (+)address_2 -> 
+	 (+)city -> Sarteano
+	 (+)state -> SI
+	 (+)postcode -> 53047
+	 (+)country -> IT
+	 (+)email -> nicoletaiacob@libero.it
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Ana nicoleta
+	 (+)last_name -> Iacob
+	 (+)company -> 
+	 (+)address_1 -> Pietro nenni 22
+	 (+)address_2 -> 
+	 (+)city -> Sarteano
+	 (+)state -> SI
+	 (+)postcode -> 53047
+	 (+)country -> IT
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 
+customer_ip_address -> 79.22.128.9
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SM-G981B Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.166 Mobile Safari/537.36 Instagram 203.0.0.29.118 Android (30/11; 480dpi; 1080x2178; samsung; SM-G981B; x1s; exynos990; it_IT; 314665256)
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> b50645213064fab8cd8055ccff7b5d09
+number -> 14601
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 356265
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 356266
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 356267
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 356268
+		 (++)key -> _billing_cf
+		 (++)value -> CBINCL83L42Z129H
+	 (+)4 -> Array
+		 (++)id -> 356269
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 356270
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 356271
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 356272
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 408
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 80x140
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14129
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3451
+				 (++++)key -> pa_misura
+				 (++++)value -> 80x140
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 80x140
+		 (++)sku -> 8052532864072
+		 (++)price -> 39
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 409
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3457
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle 14-ALEKS - 80x140 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle 14-ALEKS - 80x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-09-07T19:21:34
+date_modified_gmt -> 2021-09-07T19:40:22
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14601
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/49

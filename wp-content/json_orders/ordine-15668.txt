@@ -1,0 +1,244 @@
+id -> 15668
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-09T13:13:54
+date_modified -> 2022-01-13T16:05:54
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 72.45
+total_tax -> 0.00
+customer_id -> 67
+order_key -> wc_order_pbZNftqhCir7k
+billing -> Array
+	 (+)first_name -> Claudio
+	 (+)last_name -> Donati
+	 (+)company -> 
+	 (+)address_1 -> VIA TULLIO ASCARELLI n.211
+	 (+)address_2 -> VIA TULLIO ASCARELLI n.211
+	 (+)city -> roma
+	 (+)state -> RM
+	 (+)postcode -> 00166
+	 (+)country -> IT
+	 (+)email -> ilaloreada@gmail.com
+	 (+)phone -> 3382059403
+shipping -> Array
+	 (+)first_name -> Claudio
+	 (+)last_name -> Donati
+	 (+)company -> 
+	 (+)address_1 -> VIA TULLIO ASCARELLI n.211
+	 (+)address_2 -> VIA TULLIO ASCARELLI n.211
+	 (+)city -> roma
+	 (+)state -> RM
+	 (+)postcode -> 00166
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> ch_3KG0HYHHOCz2PuPR1hcrfwpp
+customer_ip_address -> 151.25.195.8
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+created_via -> checkout
+customer_note -> se potrei sapere il giorno di consegna grazie !!
+date_completed -> 2022-01-13T16:05:54
+date_paid -> 2022-01-09T13:13:59
+cart_hash -> cc8ac768fc59da9d39e4558bb8d71065
+number -> 15668
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384830
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384831
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384832
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384833
+		 (++)key -> _billing_cf
+		 (++)value -> DNTCLD59A08H501B
+	 (+)4 -> Array
+		 (++)id -> 384834
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384835
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384836
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384837
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 502036156.1641665271
+	 (+)8 -> Array
+		 (++)id -> 384838
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384839
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Kvs1NCyP8RDLJH
+	 (+)10 -> Array
+		 (++)id -> 384840
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1KG0HVHHOCz2PuPR8ppxKPrE
+	 (+)11 -> Array
+		 (++)id -> 384841
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3KG0HYHHOCz2PuPR1eUj5s7Z
+	 (+)12 -> Array
+		 (++)id -> 384842
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384843
+		 (++)key -> _stripe_fee
+		 (++)value -> 1.26
+	 (+)14 -> Array
+		 (++)id -> 384844
+		 (++)key -> _stripe_net
+		 (++)value -> 71.19
+	 (+)15 -> Array
+		 (++)id -> 384845
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)16 -> Array
+		 (++)id -> 384853
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)17 -> Array
+		 (++)id -> 384854
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 473
+		 (++)name -> Tappeto MONIR Arancione - 50x110
+		 (++)product_id -> 11959
+		 (++)variation_id -> 11969
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 11.25
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 11.25
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4015
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x110
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x110
+			 (+++)1 -> Array
+				 (++++)id -> 4042
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532861217
+		 (++)price -> 11.25
+		 (++)parent_name -> Tappeto MONIR Arancione
+	 (+)1 -> Array
+		 (++)id -> 474
+		 (++)name -> Tappeto MONIR Arancione - 57x240
+		 (++)product_id -> 11959
+		 (++)variation_id -> 11972
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 26.10
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 26.10
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4025
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x240
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x240
+			 (+++)1 -> Array
+				 (++++)id -> 4043
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532861392
+		 (++)price -> 26.1
+		 (++)parent_name -> Tappeto MONIR Arancione
+	 (+)2 -> Array
+		 (++)id -> 475
+		 (++)name -> Tappeto Digital Chenille Colorful C-2057 - 80x140
+		 (++)product_id -> 14094
+		 (++)variation_id -> 14104
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 35.10
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 35.10
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4035
+				 (++++)key -> pa_misura
+				 (++++)value -> 80x140
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 80x140
+			 (+++)1 -> Array
+				 (++++)id -> 4044
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532863884
+		 (++)price -> 35.1
+		 (++)parent_name -> Tappeto Digital Chenille Colorful C-2057
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 476
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4041
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto MONIR Arancione - 50x110 &times; 1, Tappeto MONIR Arancione - 57x240 &times; 1, Tappeto Digital Chenille Colorful C-2057 - 80x140 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto MONIR Arancione - 50x110 &times; 1, Tappeto MONIR Arancione - 57x240 &times; 1, Tappeto Digital Chenille Colorful C-2057 - 80x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-09T12:13:54
+date_modified_gmt -> 2022-01-13T15:05:54
+date_completed_gmt -> 2022-01-13T15:05:54
+date_paid_gmt -> 2022-01-09T12:13:59
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15668
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/67

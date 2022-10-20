@@ -1,0 +1,194 @@
+id -> 15667
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-09T09:04:25
+date_modified -> 2022-01-13T16:05:53
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 45.20
+total_tax -> 0.00
+customer_id -> 66
+order_key -> wc_order_yLsRxIt4ogqlZ
+billing -> Array
+	 (+)first_name -> Serena
+	 (+)last_name -> Caparra
+	 (+)company -> 
+	 (+)address_1 -> Via Otricoli 57
+	 (+)address_2 -> 
+	 (+)city -> Roma
+	 (+)state -> RM
+	 (+)postcode -> 00181
+	 (+)country -> IT
+	 (+)email -> serenacaparra@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Serena
+	 (+)last_name -> Caparra
+	 (+)company -> 
+	 (+)address_1 -> Via Otricoli 57
+	 (+)address_2 -> 
+	 (+)city -> Roma
+	 (+)state -> RM
+	 (+)postcode -> 00181
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 7RU850822D5474212
+customer_ip_address -> 2001:b07:6468:52df:dd4:7544:a7d8:8746
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SM-A127F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/348.0.0.39.118;]
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:53
+date_paid -> 2022-01-09T09:06:22
+cart_hash -> b6edf938f5f1e44b6bf48179c6ad2830
+number -> 15667
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384771
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384772
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384773
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384774
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 384775
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384776
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384777
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384778
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 126062990.1641714831
+	 (+)8 -> Array
+		 (++)id -> 384779
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384780
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 384782
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 384783
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.89
+	 (+)12 -> Array
+		 (++)id -> 384790
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384791
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 470
+		 (++)name -> Tappeto Cotone MALAGA Ecru SET
+		 (++)product_id -> 12388
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 22.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 22.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4004
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862429
+		 (++)price -> 22
+		 (++)parent_name -> 
+	 (+)1 -> Array
+		 (++)id -> 471
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Baby blu - 70x140
+		 (++)product_id -> 12457
+		 (++)variation_id -> 12464
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 23.20
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 23.20
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3997
+				 (++++)key -> pa_misura
+				 (++++)value -> 70x140
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 70x140
+			 (+++)1 -> Array
+				 (++++)id -> 4005
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862559
+		 (++)price -> 23.2
+		 (++)parent_name -> Tappeto Chenille TWO FACE CORITIBA Baby blu
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 472
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4003
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone MALAGA Ecru SET &times; 1, Tappeto Chenille TWO FACE CORITIBA Baby blu - 70x140 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Cotone MALAGA Ecru SET &times; 1, Tappeto Chenille TWO FACE CORITIBA Baby blu - 70x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-09T08:04:25
+date_modified_gmt -> 2022-01-13T15:05:53
+date_completed_gmt -> 2022-01-13T15:05:53
+date_paid_gmt -> 2022-01-09T08:06:22
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15667
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/66

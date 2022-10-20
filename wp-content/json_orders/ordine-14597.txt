@@ -1,0 +1,183 @@
+id -> 14597
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.5.2
+prices_include_tax -> 
+date_created -> 2021-08-13T12:30:54
+date_modified -> 2021-08-13T12:30:58
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.99
+total_tax -> 0.00
+customer_id -> 46
+order_key -> wc_order_7GqwNvYoKGPWM
+billing -> Array
+	 (+)first_name -> Stefano
+	 (+)last_name -> Sorice
+	 (+)company -> 
+	 (+)address_1 -> piazza Citterio, 2
+	 (+)address_2 -> 
+	 (+)city -> Monza
+	 (+)state -> MB
+	 (+)postcode -> 20900
+	 (+)country -> IT
+	 (+)email -> sste@me.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Stefano
+	 (+)last_name -> Sorice
+	 (+)company -> 
+	 (+)address_1 -> piazza Citterio, 2
+	 (+)address_2 -> 
+	 (+)city -> Monza
+	 (+)state -> MB
+	 (+)postcode -> 20900
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_3JNxf9HHOCz2PuPR0T0tezGM
+customer_ip_address -> 93.47.224.248
+customer_user_agent -> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-08-13T12:30:58
+cart_hash -> b206b2e29625fba85c31577d1b9d88bb
+number -> 14597
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 356158
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 356159
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 356160
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 356161
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 356162
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 356163
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 356164
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 356165
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)8 -> Array
+		 (++)id -> 356166
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_K21il6wyQSgo6P
+	 (+)9 -> Array
+		 (++)id -> 356167
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1JNxf3HHOCz2PuPR5RQZGldf
+	 (+)10 -> Array
+		 (++)id -> 356168
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3JNxf9HHOCz2PuPR0yrfLBmm
+	 (+)11 -> Array
+		 (++)id -> 356169
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)12 -> Array
+		 (++)id -> 356170
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.77
+	 (+)13 -> Array
+		 (++)id -> 356171
+		 (++)key -> _stripe_net
+		 (++)value -> 36.22
+	 (+)14 -> Array
+		 (++)id -> 356172
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)15 -> Array
+		 (++)id -> 356180
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)16 -> Array
+		 (++)id -> 356181
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 403
+		 (++)name -> Tappeto DIGITAL COOKING Mini Hearts - 50x230
+		 (++)product_id -> 11824
+		 (++)variation_id -> 11835
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3408
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x230
+			 (+++)1 -> Array
+				 (++++)id -> 3415
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860999
+		 (++)price -> 29
+		 (++)parent_name -> Tappeto DIGITAL COOKING Mini Hearts
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 404
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3414
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto DIGITAL COOKING Mini Hearts - 50x230 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto DIGITAL COOKING Mini Hearts - 50x230 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-08-13T10:30:54
+date_modified_gmt -> 2021-08-13T10:30:58
+date_completed_gmt -> 
+date_paid_gmt -> 2021-08-13T10:30:58
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14597
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/46

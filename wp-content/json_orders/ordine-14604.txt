@@ -1,0 +1,168 @@
+id -> 14604
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.6.0
+prices_include_tax -> 
+date_created -> 2021-09-13T15:52:53
+date_modified -> 2021-09-28T09:34:39
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.99
+total_tax -> 0.00
+customer_id -> 50
+order_key -> wc_order_y28eZryHWRIvZ
+billing -> Array
+	 (+)first_name -> Laura
+	 (+)last_name -> Miglioli
+	 (+)company -> 
+	 (+)address_1 -> Vía borgonovo San Lorenzo 56
+	 (+)address_2 -> 
+	 (+)city -> Monticelli d 'ongina
+	 (+)state -> PC
+	 (+)postcode -> 29010
+	 (+)country -> IT
+	 (+)email -> migliolilaura8@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Laura
+	 (+)last_name -> Miglioli
+	 (+)company -> 
+	 (+)address_1 -> Vía borgonovo San Lorenzo 56
+	 (+)address_2 -> 
+	 (+)city -> Monticelli d 'ongina
+	 (+)state -> PC
+	 (+)postcode -> 29010
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 55D72037S9896613E
+customer_ip_address -> 80.104.1.5
+customer_user_agent -> Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 204.0.0.16.119 (iPad11,2; iOS 14_7_1; it_IT; it-IT; scale=2.00; 750x1334; 315460786)
+created_via -> checkout
+customer_note -> 
+date_completed -> 2021-09-28T09:34:39
+date_paid -> 2021-09-13T15:54:29
+cart_hash -> 9d0b9da466497317b7fe9c3f71c99059
+number -> 14604
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 356317
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 356318
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 356319
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 356320
+		 (++)key -> _billing_cf
+		 (++)value -> MGLLRA56H44I827M
+	 (+)4 -> Array
+		 (++)id -> 356321
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 356322
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 356323
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 356324
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)8 -> Array
+		 (++)id -> 356325
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)9 -> Array
+		 (++)id -> 356327
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)10 -> Array
+		 (++)id -> 356328
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.61
+	 (+)11 -> Array
+		 (++)id -> 356335
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)12 -> Array
+		 (++)id -> 356336
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 410
+		 (++)name -> Tappeto DIGITAL COOKING Noto - 50x230
+		 (++)product_id -> 11848
+		 (++)variation_id -> 11859
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3467
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x230
+			 (+++)1 -> Array
+				 (++++)id -> 3474
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532861019
+		 (++)price -> 29
+		 (++)parent_name -> Tappeto DIGITAL COOKING Noto
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 411
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3473
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto DIGITAL COOKING Noto - 50x230 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto DIGITAL COOKING Noto - 50x230 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-09-13T13:52:53
+date_modified_gmt -> 2021-09-28T07:34:39
+date_completed_gmt -> 2021-09-28T07:34:39
+date_paid_gmt -> 2021-09-13T13:54:29
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14604
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/50

@@ -1,0 +1,192 @@
+id -> 15888
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-04-03T19:11:02
+date_modified -> 2022-04-03T19:11:06
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 29.90
+total_tax -> 0.00
+customer_id -> 102
+order_key -> wc_order_wyJ9Nn0dMFfxS
+billing -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Loreto
+	 (+)company -> 
+	 (+)address_1 -> Via Marco D'Agrate 29
+	 (+)address_2 -> 
+	 (+)city -> Milano
+	 (+)state -> MI
+	 (+)postcode -> 20139
+	 (+)country -> IT
+	 (+)email -> loreto.paolo@yahoo.it
+	 (+)phone -> 3488782648
+shipping -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Loreto
+	 (+)company -> 
+	 (+)address_1 -> Via Marco D'Agrate 29
+	 (+)address_2 -> 
+	 (+)city -> Milano
+	 (+)state -> MI
+	 (+)postcode -> 20139
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> ch_3KkWx9HHOCz2PuPR0uxJ63su
+customer_ip_address -> 37.163.171.227
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> Citofonare al custode
+date_completed -> 
+date_paid -> 2022-04-03T19:11:06
+cart_hash -> 1f15914ea211cd85f82c2d637d7e7aea
+number -> 15888
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 390678
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 390679
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 390680
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 390681
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 390682
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 390683
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 390684
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 390685
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 285345327.1649004143
+	 (+)8 -> Array
+		 (++)id -> 390686
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 390687
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)10 -> Array
+		 (++)id -> 390688
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_LRPmmDDusy9Dn7
+	 (+)11 -> Array
+		 (++)id -> 390689
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1KkWx6HHOCz2PuPRulThiGJ4
+	 (+)12 -> Array
+		 (++)id -> 390690
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3KkWx9HHOCz2PuPR0L1izjwa
+	 (+)13 -> Array
+		 (++)id -> 390691
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)14 -> Array
+		 (++)id -> 390692
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.67
+	 (+)15 -> Array
+		 (++)id -> 390693
+		 (++)key -> _stripe_net
+		 (++)value -> 29.23
+	 (+)16 -> Array
+		 (++)id -> 390694
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)17 -> Array
+		 (++)id -> 390702
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)18 -> Array
+		 (++)id -> 390703
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 488
+		 (++)name -> Tappeto PLAIN Lilla - 57x280
+		 (++)product_id -> 11665
+		 (++)variation_id -> 11679
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4140
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x280
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x280
+			 (+++)1 -> Array
+				 (++++)id -> 4147
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860050
+		 (++)price -> 29.9
+		 (++)parent_name -> Tappeto PLAIN Lilla
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 489
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4146
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto PLAIN Lilla - 57x280 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto PLAIN Lilla - 57x280 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-04-03T17:11:02
+date_modified_gmt -> 2022-04-03T17:11:06
+date_completed_gmt -> 
+date_paid_gmt -> 2022-04-03T17:11:06
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15888
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/102

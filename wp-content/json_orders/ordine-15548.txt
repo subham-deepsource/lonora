@@ -1,0 +1,150 @@
+id -> 15548
+parent_id -> 0
+status -> cancelled
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-15T13:44:05
+date_modified -> 2021-12-15T14:02:46
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 28.99
+total_tax -> 0.00
+customer_id -> 19
+order_key -> wc_order_CFy6qQX4CSgxM
+billing -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Canonica
+	 (+)company -> 
+	 (+)address_1 -> Hdhd
+	 (+)address_2 -> 
+	 (+)city -> Jdhd
+	 (+)state -> AG
+	 (+)postcode -> 20019
+	 (+)country -> IT
+	 (+)email -> staff@lonora.it
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Canonica
+	 (+)company -> 
+	 (+)address_1 -> Hdhd
+	 (+)address_2 -> 
+	 (+)city -> Jdhd
+	 (+)state -> AG
+	 (+)postcode -> 20019
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe_sofort
+payment_method_title -> SOFORT
+transaction_id -> 
+customer_ip_address -> 85.3.114.88
+customer_user_agent -> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> 83502c29065e6c0416b0ae796a7573a2
+number -> 15548
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 380682
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 380683
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 380684
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 380685
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 380686
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 380687
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 380688
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 380689
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 630803585.1638352686
+	 (+)8 -> Array
+		 (++)id -> 380690
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 380691
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1K6wq2HHOCz2PuPRR9oStL4m
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 432
+		 (++)name -> Tappeto Cotone ART DECO Baby Blu - 50x140
+		 (++)product_id -> 12565
+		 (++)variation_id -> 12574
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 21.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 21.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3658
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x140
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x140
+		 (++)sku -> 8052532862825
+		 (++)price -> 21
+		 (++)parent_name -> Tappeto Cotone ART DECO Baby Blu
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 433
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3664
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone ART DECO Baby Blu - 50x140 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Cotone ART DECO Baby Blu - 50x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-15T12:44:05
+date_modified_gmt -> 2021-12-15T13:02:46
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15548
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/19

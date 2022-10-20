@@ -1,0 +1,185 @@
+id -> 15664
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-04T12:47:26
+date_modified -> 2022-01-13T16:05:53
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.99
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_B5zsLnW1FHpRL
+billing -> Array
+	 (+)first_name -> Elena
+	 (+)last_name -> Brignole
+	 (+)company -> 
+	 (+)address_1 -> Via Palestro n. 95 A
+	 (+)address_2 -> 
+	 (+)city -> Padova
+	 (+)state -> PD
+	 (+)postcode -> 35138
+	 (+)country -> IT
+	 (+)email -> elenabrignole@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Elena
+	 (+)last_name -> Brignole
+	 (+)company -> 
+	 (+)address_1 -> Via Palestro n. 95 A
+	 (+)address_2 -> 
+	 (+)city -> Padova
+	 (+)state -> PD
+	 (+)postcode -> 35138
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 3LY22160AY109215T
+customer_ip_address -> 5.91.254.177
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:53
+date_paid -> 2022-01-04T12:48:05
+cart_hash -> 33e53ca3654f5d1cb10f5ca50b8af8d7
+number -> 15664
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384714
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384715
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384716
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384717
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 384718
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384719
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384720
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384721
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 862351685.1641296377
+	 (+)8 -> Array
+		 (++)id -> 384722
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384723
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 384725
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 384726
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 1.61
+	 (+)12 -> Array
+		 (++)id -> 384733
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384734
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 467
+		 (++)name -> Tappeto SETA COLLECTION  Grigio
+		 (++)product_id -> 12473
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 14.50
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3977
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862634
+		 (++)price -> 14.5
+		 (++)parent_name -> 
+	 (+)1 -> Array
+		 (++)id -> 468
+		 (++)name -> Tappeto SETA COLLECTION Beige
+		 (++)product_id -> 12501
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 14.50
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3978
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862672
+		 (++)price -> 14.5
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 469
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3976
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto SETA COLLECTION Grigio &times; 1, Tappeto SETA COLLECTION Beige &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto SETA COLLECTION Grigio &times; 1, Tappeto SETA COLLECTION Beige &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-04T11:47:26
+date_modified_gmt -> 2022-01-13T15:05:53
+date_completed_gmt -> 2022-01-13T15:05:53
+date_paid_gmt -> 2022-01-04T11:48:05
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15664
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

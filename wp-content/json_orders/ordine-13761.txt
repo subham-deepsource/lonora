@@ -1,0 +1,151 @@
+id -> 13761
+parent_id -> 0
+number -> 13761
+order_key -> wc_order_agaBIMZDCEgt7
+created_via -> checkout
+version -> 4.5.2
+status -> on-hold
+currency -> EUR
+date_created -> 2020-11-20T12:31:17
+date_created_gmt -> 2020-11-20T11:31:17
+date_modified -> 2020-11-20T12:31:18
+date_modified_gmt -> 2020-11-20T11:31:18
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 31.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 11
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Christoher
+	 (+)last_name -> Screnci
+	 (+)company -> 
+	 (+)address_1 -> via mosso 20c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> christopher@softplaceweb.com
+	 (+)phone -> 015225483
+shipping -> Array
+	 (+)first_name -> Christoher
+	 (+)last_name -> Screnci
+	 (+)company -> 
+	 (+)address_1 -> via mosso 20c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 
+date_paid_gmt -> 
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> affb54aa977a7acf41d8e9f0419be077
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 283564
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 283565
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 283566
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 283567
+		 (++)key -> _billing_cf
+		 (++)value -> scrcrs92t27a859v
+	 (+)4 -> Array
+		 (++)id -> 283568
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 319
+		 (++)name -> Tappeto DIGITAL COOKING Sunflower - 50x130
+		 (++)product_id -> 11800
+		 (++)variation_id -> 11809
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2682
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x130
+			 (+++)1 -> Array
+				 (++++)id -> 2699
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532860739
+		 (++)price -> 16
+	 (+)1 -> Array
+		 (++)id -> 320
+		 (++)name -> Tappeto DIGITAL COOKING Palms
+		 (++)product_id -> 11836
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 11.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 11.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2692
+				 (++++)key -> pa_misura
+				 (++++)value -> 
+			 (+++)1 -> Array
+				 (++++)id -> 2700
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532860647-padre
+		 (++)price -> 11
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 321
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2698
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto DIGITAL COOKING Sunflower - 50x130 &times; 1, Tappeto DIGITAL COOKING Palms &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13761
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/11

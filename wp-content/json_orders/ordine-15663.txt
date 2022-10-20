@@ -1,0 +1,169 @@
+id -> 15663
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-03T19:49:02
+date_modified -> 2022-01-13T16:05:53
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 88.20
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_pIYWQwORvP678
+billing -> Array
+	 (+)first_name -> Eugenia
+	 (+)last_name -> Lazzerotti
+	 (+)company -> 
+	 (+)address_1 -> Via Rodolfo Morandi 23
+	 (+)address_2 -> Scala A - Interno 12
+	 (+)city -> Roma
+	 (+)state -> RM
+	 (+)postcode -> 00139
+	 (+)country -> IT
+	 (+)email -> e.lazzerotti@gmail.com
+	 (+)phone -> 3391320015
+shipping -> Array
+	 (+)first_name -> Eugenia
+	 (+)last_name -> Lazzerotti
+	 (+)company -> 
+	 (+)address_1 -> Via Rodolfo Morandi 23
+	 (+)address_2 -> Scala A - Interno 12
+	 (+)city -> Roma
+	 (+)state -> RM
+	 (+)postcode -> 00139
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 33S59379A7358111Y
+customer_ip_address -> 151.57.58.240
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:53
+date_paid -> 2022-01-03T19:52:50
+cart_hash -> e7c92e3d0a72ffa0219744bcddde82ce
+number -> 15663
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384644
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384645
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384646
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384647
+		 (++)key -> _billing_cf
+		 (++)value -> LZZGNE84M64H501C
+	 (+)4 -> Array
+		 (++)id -> 384648
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384649
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384650
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384651
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1628399080.1639529687
+	 (+)8 -> Array
+		 (++)id -> 384652
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384653
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 384655
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 384656
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 3.35
+	 (+)12 -> Array
+		 (++)id -> 384663
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384664
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 465
+		 (++)name -> Tappeto Digital Chenille Vintage C-4044 - 140x200
+		 (++)product_id -> 14226
+		 (++)variation_id -> 14232
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 88.20
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 88.20
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3945
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+			 (+++)1 -> Array
+				 (++++)id -> 3952
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864218
+		 (++)price -> 88.2
+		 (++)parent_name -> Tappeto Digital Chenille Vintage C-4044
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 466
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3951
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Vintage C-4044 - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Vintage C-4044 - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-03T18:49:02
+date_modified_gmt -> 2022-01-13T15:05:53
+date_completed_gmt -> 2022-01-13T15:05:53
+date_paid_gmt -> 2022-01-03T18:52:50
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15663
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

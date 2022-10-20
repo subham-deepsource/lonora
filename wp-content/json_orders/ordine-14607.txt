@@ -1,0 +1,188 @@
+id -> 14607
+parent_id -> 0
+status -> on-hold
+currency -> EUR
+version -> 5.6.0
+prices_include_tax -> 
+date_created -> 2021-09-18T21:51:40
+date_modified -> 2021-09-18T21:51:40
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 98.99
+total_tax -> 0.00
+customer_id -> 51
+order_key -> wc_order_oarNJyZXOFZIY
+billing -> Array
+	 (+)first_name -> Laura
+	 (+)last_name -> Porcello
+	 (+)company -> 
+	 (+)address_1 -> Via San Francesco 11
+	 (+)address_2 -> Appartamento
+	 (+)city -> Canzo
+	 (+)state -> CO
+	 (+)postcode -> 22035
+	 (+)country -> IT
+	 (+)email -> labubina86@hotmail.it
+	 (+)phone -> 3406594309
+shipping -> Array
+	 (+)first_name -> Laura
+	 (+)last_name -> Porcello
+	 (+)company -> 
+	 (+)address_1 -> Via San Francesco 11
+	 (+)address_2 -> Appartamento
+	 (+)city -> Canzo
+	 (+)state -> CO
+	 (+)postcode -> 22035
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+customer_ip_address -> 146.241.74.225
+customer_user_agent -> Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 205.0.0.20.115 (iPhone12,8; iOS 14_7_1; it_IT; it-IT; scale=2.34; 750x1331; 317250287)
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> e9eb3d4199b15afef0ec0b3934daa58a
+number -> 14607
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 356479
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 356480
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 356481
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 356482
+		 (++)key -> _billing_cf
+		 (++)value -> Prclra86r52d416l
+	 (+)4 -> Array
+		 (++)id -> 356483
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 356484
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 356485
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 356486
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)8 -> Array
+		 (++)id -> 356490
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)9 -> Array
+		 (++)id -> 356496
+		 (++)key -> _ga_tracked
+		 (++)value -> 1
+	 (+)10 -> Array
+		 (++)id -> 356497
+		 (++)key -> _wc_facebook_for_woocommerce_purchase_tracked
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 412
+		 (++)name -> Tappeto Cotone MALAGA Baby Blu - 60x120
+		 (++)product_id -> 12396
+		 (++)variation_id -> 12402
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3484
+				 (++++)key -> pa_misura
+				 (++++)value -> 60x120
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 60x120
+			 (+++)1 -> Array
+				 (++++)id -> 3501
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862313
+		 (++)price -> 16
+		 (++)parent_name -> Tappeto Cotone MALAGA Baby Blu
+	 (+)1 -> Array
+		 (++)id -> 413
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14130
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 75.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 75.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3494
+				 (++++)key -> pa_misura
+				 (++++)value -> 120x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 120x180
+			 (+++)1 -> Array
+				 (++++)id -> 3502
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864089
+		 (++)price -> 75
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 414
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3500
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone MALAGA Baby Blu - 60x120 &times; 1, Tappeto Digital Chenille Jungle 14-ALEKS - 120x180 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Cotone MALAGA Baby Blu - 60x120 &times; 1, Tappeto Digital Chenille Jungle 14-ALEKS - 120x180 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-09-18T19:51:40
+date_modified_gmt -> 2021-09-18T19:51:40
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14607
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/51

@@ -1,0 +1,213 @@
+id -> 15657
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-30T09:03:04
+date_modified -> 2022-01-13T16:05:53
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 50.00
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_zVCm1yDtnrRDd
+billing -> Array
+	 (+)first_name -> Blerina
+	 (+)last_name -> Xoxi
+	 (+)company -> 
+	 (+)address_1 -> Via Acquanegra 31
+	 (+)address_2 -> 
+	 (+)city -> Pavia
+	 (+)state -> PV
+	 (+)postcode -> 27100
+	 (+)country -> IT
+	 (+)email -> xbleri@libero.it
+	 (+)phone -> 3282944363
+shipping -> Array
+	 (+)first_name -> Blerina
+	 (+)last_name -> Xoxi
+	 (+)company -> 
+	 (+)address_1 -> Via Acquanegra 31
+	 (+)address_2 -> 
+	 (+)city -> Pavia
+	 (+)state -> PV
+	 (+)postcode -> 27100
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> ch_3KCJbKHHOCz2PuPR0HUWq82t
+customer_ip_address -> 87.9.202.220
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:53
+date_paid -> 2021-12-30T09:03:08
+cart_hash -> d946fd16fe3dfdd775c973f717f123d5
+number -> 15657
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384352
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384353
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384354
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384355
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 384356
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384357
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384358
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384359
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1339513538.1640848066
+	 (+)8 -> Array
+		 (++)id -> 384360
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384361
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Ks3iY86L69fiEY
+	 (+)10 -> Array
+		 (++)id -> 384362
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1KCJbGHHOCz2PuPRchWxnOHp
+	 (+)11 -> Array
+		 (++)id -> 384363
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3KCJbKHHOCz2PuPR04485NJA
+	 (+)12 -> Array
+		 (++)id -> 384364
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384365
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.95
+	 (+)14 -> Array
+		 (++)id -> 384366
+		 (++)key -> _stripe_net
+		 (++)value -> 49.05
+	 (+)15 -> Array
+		 (++)id -> 384367
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)16 -> Array
+		 (++)id -> 384375
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)17 -> Array
+		 (++)id -> 384376
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 459
+		 (++)name -> Tappeto PLAIN Rosso - 57x230
+		 (++)product_id -> 11710
+		 (++)variation_id -> 11723
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 25.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 25.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3898
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x230
+			 (+++)1 -> Array
+				 (++++)id -> 3915
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860029
+		 (++)price -> 25
+		 (++)parent_name -> Tappeto PLAIN Rosso
+	 (+)1 -> Array
+		 (++)id -> 460
+		 (++)name -> Tappeto PLAIN Grigio - 57x230
+		 (++)product_id -> 11650
+		 (++)variation_id -> 11663
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 25.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 25.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3908
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x230
+			 (+++)1 -> Array
+				 (++++)id -> 3916
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860180
+		 (++)price -> 25
+		 (++)parent_name -> Tappeto PLAIN Grigio
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 461
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3914
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto PLAIN Rosso - 57x230 &times; 1, Tappeto PLAIN Grigio - 57x230 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto PLAIN Rosso - 57x230 &times; 1, Tappeto PLAIN Grigio - 57x230 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-30T08:03:04
+date_modified_gmt -> 2022-01-13T15:05:53
+date_completed_gmt -> 2022-01-13T15:05:53
+date_paid_gmt -> 2021-12-30T08:03:08
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15657
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

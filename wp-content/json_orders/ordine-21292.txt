@@ -1,0 +1,188 @@
+id -> 21292
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-05-04T11:53:48
+date_modified -> 2022-05-04T11:53:48
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 72.00
+total_tax -> 0.00
+customer_id -> 19
+order_key -> wc_order_TRIP1opEiY1QI
+billing -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Test
+	 (+)company -> 
+	 (+)address_1 -> Hdhd
+	 (+)address_2 -> 
+	 (+)city -> Jdhd
+	 (+)state -> AO
+	 (+)postcode -> 20019
+	 (+)country -> IT
+	 (+)email -> staff@lonora.it
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Test
+	 (+)company -> 
+	 (+)address_1 -> Hdhd
+	 (+)address_2 -> 
+	 (+)city -> Jdhd
+	 (+)state -> AO
+	 (+)postcode -> 20019
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> cod
+payment_method_title -> Pagamento alla consegna
+transaction_id -> 
+customer_ip_address -> 151.31.251.53
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> fbc32865ab18fcef0ce234c98a371065
+number -> 21292
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 454340
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 454341
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 454342
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 454343
+		 (++)key -> _billing_cf
+		 (++)value -> cocco
+	 (+)4 -> Array
+		 (++)id -> 454344
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 454345
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 454346
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 454347
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1745781388.1647357337
+	 (+)8 -> Array
+		 (++)id -> 454348
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 454353
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)10 -> Array
+		 (++)id -> 454358
+		 (++)key -> _pys_purchase_event_fired
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 492
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Grigio - 70x140
+		 (++)product_id -> 12421
+		 (++)variation_id -> 12428
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 33.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 33.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4174
+				 (++++)key -> pa_misura
+				 (++++)value -> 70x140
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 70x140
+			 (+++)1 -> Array
+				 (++++)id -> 4191
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862511
+		 (++)price -> 33
+		 (++)parent_name -> Tappeto Chenille TWO FACE CORITIBA Grigio
+	 (+)1 -> Array
+		 (++)id -> 493
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 80x140
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14129
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4184
+				 (++++)key -> pa_misura
+				 (++++)value -> 80x140
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 80x140
+			 (+++)1 -> Array
+				 (++++)id -> 4192
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864072
+		 (++)price -> 39
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 494
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4190
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Grigio - 70x140 &times; 1, Tappeto Digital Chenille Jungle 14-ALEKS - 80x140 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Chenille TWO FACE CORITIBA Grigio - 70x140 &times; 1, Tappeto Digital Chenille Jungle 14-ALEKS - 80x140 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-05-04T09:53:48
+date_modified_gmt -> 2022-05-04T09:53:48
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/21292
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/19

@@ -1,0 +1,157 @@
+id -> 15646
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-18T11:41:44
+date_modified -> 2022-01-03T10:53:12
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 41.40
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_ZpEI4TqNKBRaB
+billing -> Array
+	 (+)first_name -> Tamara
+	 (+)last_name -> Mana
+	 (+)company -> 
+	 (+)address_1 -> Via Massao 14
+	 (+)address_2 -> 
+	 (+)city -> Monasterolo di savigliano
+	 (+)state -> CN
+	 (+)postcode -> 12030
+	 (+)country -> IT
+	 (+)email -> ramata.indaco@ymail.com
+	 (+)phone -> 3496820077
+shipping -> Array
+	 (+)first_name -> Tamara
+	 (+)last_name -> Mana
+	 (+)company -> 
+	 (+)address_1 -> Via Massao 14
+	 (+)address_2 -> 
+	 (+)city -> Monasterolo di savigliano
+	 (+)state -> CN
+	 (+)postcode -> 12030
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+customer_ip_address -> 37.161.21.0
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A405FN) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-03T10:53:12
+date_paid -> 2021-12-21T10:44:16
+cart_hash -> 7870c74f9153b9e18484577fabcc5d62
+number -> 15646
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 383872
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 383873
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 383874
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 383875
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 383876
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 383877
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 383878
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 383879
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 2022224691.1639823340
+	 (+)8 -> Array
+		 (++)id -> 383880
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 383884
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)10 -> Array
+		 (++)id -> 384040
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 439
+		 (++)name -> Tappeto Digital Chenille Jungle C-3671 - 57x230
+		 (++)product_id -> 14184
+		 (++)variation_id -> 14196
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 41.40
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 41.40
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3717
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x230
+			 (+++)1 -> Array
+				 (++++)id -> 3724
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864027
+		 (++)price -> 41.4
+		 (++)parent_name -> Tappeto Digital Chenille Jungle C-3671
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 440
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3723
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle C-3671 - 57x230 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle C-3671 - 57x230 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-18T10:41:44
+date_modified_gmt -> 2022-01-03T09:53:12
+date_completed_gmt -> 2022-01-03T09:53:12
+date_paid_gmt -> 2021-12-21T09:44:16
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15646
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

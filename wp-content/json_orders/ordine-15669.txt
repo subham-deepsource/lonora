@@ -1,0 +1,179 @@
+id -> 15669
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-10T00:33:48
+date_modified -> 2022-01-13T16:05:54
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 19.00
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_83Rz7LPnyJASx
+billing -> Array
+	 (+)first_name -> Annalaura
+	 (+)last_name -> Panico
+	 (+)company -> 
+	 (+)address_1 -> Via Pontavai, 209
+	 (+)address_2 -> Appartamento
+	 (+)city -> Vittorio Veneto
+	 (+)state -> TV
+	 (+)postcode -> 31029
+	 (+)country -> IT
+	 (+)email -> annalaura-panico@hotmail.com
+	 (+)phone -> 3289648156
+shipping -> Array
+	 (+)first_name -> Annalaura
+	 (+)last_name -> Panico
+	 (+)company -> 
+	 (+)address_1 -> Via Pontavai, 209
+	 (+)address_2 -> Appartamento
+	 (+)city -> Vittorio Veneto
+	 (+)state -> TV
+	 (+)postcode -> 31029
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> ch_3KGAtVHHOCz2PuPR1EcMEz4M
+customer_ip_address -> 93.47.36.76
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> Se non c'è risposta al citofono, lasciare sotto al palazzo.
+date_completed -> 2022-01-13T16:05:54
+date_paid -> 2022-01-10T00:33:59
+cart_hash -> f9f92f618d4b7533359528cca7a691e3
+number -> 15669
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384908
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384909
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384910
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384911
+		 (++)key -> _billing_cf
+		 (++)value -> PNCLNR97R54G795U
+	 (+)4 -> Array
+		 (++)id -> 384912
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384913
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384914
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384915
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 2100236444.1641770578
+	 (+)8 -> Array
+		 (++)id -> 384916
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384917
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Kw2z6JfGHne7w6
+	 (+)10 -> Array
+		 (++)id -> 384918
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1KGAtTHHOCz2PuPRXu9QMokZ
+	 (+)11 -> Array
+		 (++)id -> 384919
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3KGAtVHHOCz2PuPR1fwpRUTq
+	 (+)12 -> Array
+		 (++)id -> 384920
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384921
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.52
+	 (+)14 -> Array
+		 (++)id -> 384922
+		 (++)key -> _stripe_net
+		 (++)value -> 18.48
+	 (+)15 -> Array
+		 (++)id -> 384923
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)16 -> Array
+		 (++)id -> 384931
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)17 -> Array
+		 (++)id -> 384932
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 477
+		 (++)name -> Tappeto DIGITAL COOKING Palms - 50x180
+		 (++)product_id -> 11836
+		 (++)variation_id -> 11846
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 19.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 19.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4054
+				 (++++)key -> pa_misura
+				 (++++)value -> 50x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 50x180
+			 (+++)1 -> Array
+				 (++++)id -> 4060
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860883
+		 (++)price -> 19
+		 (++)parent_name -> Tappeto DIGITAL COOKING Palms
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 478
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> advanced_flat_rate_shipping
+		 (++)instance_id -> 0
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-09T23:33:48
+date_modified_gmt -> 2022-01-13T15:05:54
+date_completed_gmt -> 2022-01-13T15:05:54
+date_paid_gmt -> 2022-01-09T23:33:59
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15669
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

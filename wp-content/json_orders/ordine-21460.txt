@@ -1,0 +1,142 @@
+id -> 21460
+parent_id -> 0
+status -> cancelled
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-06-29T10:16:45
+date_modified -> 2022-06-29T11:49:54
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.95
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.90
+total_tax -> 0.00
+customer_id -> 19
+order_key -> wc_order_yEiJMNmmYq0K7
+billing -> Array
+	 (+)first_name -> Alessandra
+	 (+)last_name -> Franco
+	 (+)company -> 
+	 (+)address_1 -> opopopopopo
+	 (+)address_2 -> 
+	 (+)city -> torino
+	 (+)state -> TO
+	 (+)postcode -> 10010
+	 (+)country -> IT
+	 (+)email -> staff@lonora.it
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Alessandra
+	 (+)last_name -> Franco
+	 (+)company -> 
+	 (+)address_1 -> opopopopopo
+	 (+)address_2 -> 
+	 (+)city -> torino
+	 (+)state -> TO
+	 (+)postcode -> 10010
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> cod
+payment_method_title -> Pagamento alla consegna
+transaction_id -> 
+customer_ip_address -> 151.38.98.5
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36 Config/91.2.4251.52
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> 0b9b63cd36435bb6f5c1ce6079e3b935
+number -> 21460
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 459228
+		 (++)key -> _billing_email_1
+		 (++)value -> franco.alessandra@vodafone.it
+	 (+)1 -> Array
+		 (++)id -> 459229
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)2 -> Array
+		 (++)id -> 459230
+		 (++)key -> billing_email_1
+		 (++)value -> franco.alessandra@vodafone.it
+	 (+)3 -> Array
+		 (++)id -> 459231
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1800157388.1655902870
+	 (+)4 -> Array
+		 (++)id -> 459232
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)5 -> Array
+		 (++)id -> 459237
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)6 -> Array
+		 (++)id -> 459238
+		 (++)key -> _pys_purchase_event_fired
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 503
+		 (++)name -> Tappeto ALMA Grigio Parure 3 pezzi
+		 (++)product_id -> 12057
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 27.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 27.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+		 (++)sku -> 8052532861798
+		 (++)price -> 27
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 505
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.95
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4279
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto ALMA Grigio Parure 3 pezzi &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto ALMA Grigio Parure 3 pezzi &times; 1
+fee_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 504
+		 (++)name -> Pagamento alla consegna
+		 (++)tax_class -> 0
+		 (++)tax_status -> taxable
+		 (++)amount -> 4.95
+		 (++)total -> 4.95
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-06-29T08:16:45
+date_modified_gmt -> 2022-06-29T09:49:54
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/21460
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/19

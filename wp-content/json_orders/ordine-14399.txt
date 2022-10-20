@@ -1,0 +1,175 @@
+id -> 14399
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.4.1
+prices_include_tax -> 
+date_created -> 2021-07-08T07:40:57
+date_modified -> 2021-07-08T07:41:34
+discount_total -> 19.60
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 86.39
+total_tax -> 0.00
+customer_id -> 30
+order_key -> wc_order_ABHgJTdmQLxDO
+billing -> Array
+	 (+)first_name -> Francesca
+	 (+)last_name -> Noris
+	 (+)company -> 
+	 (+)address_1 -> Via gramsci
+	 (+)address_2 -> 13
+	 (+)city -> VERDELLINO
+	 (+)state -> BG
+	 (+)postcode -> 24040
+	 (+)country -> IT
+	 (+)email -> francesca2914@live.com
+	 (+)phone -> 3428028704
+shipping -> Array
+	 (+)first_name -> Francesca
+	 (+)last_name -> Noris
+	 (+)company -> 
+	 (+)address_1 -> Via gramsci
+	 (+)address_2 -> 13
+	 (+)city -> VERDELLINO
+	 (+)state -> BG
+	 (+)postcode -> 24040
+	 (+)country -> IT
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 28Y2982505885264W
+customer_ip_address -> 37.163.184.246
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; Mi A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-07-08T07:41:34
+cart_hash -> 49fce64377cb9c9cefef76a7101cd9f8
+number -> 14399
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 355186
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 355187
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 355188
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 355189
+		 (++)key -> _billing_cf
+		 (++)value -> NRSFNC84P60i628x
+	 (+)4 -> Array
+		 (++)id -> 355190
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 355191
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 355192
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 355193
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)8 -> Array
+		 (++)id -> 355195
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)9 -> Array
+		 (++)id -> 355196
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 3.29
+	 (+)10 -> Array
+		 (++)id -> 355204
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)11 -> Array
+		 (++)id -> 355205
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 386
+		 (++)name -> Tappeto Digital Chenille Jungle C-2354 - 140x200
+		 (++)product_id -> 14175
+		 (++)variation_id -> 14181
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 98.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 78.40
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3275
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+			 (+++)1 -> Array
+				 (++++)id -> 3285
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864126
+		 (++)price -> 78.4
+		 (++)parent_name -> Tappeto Digital Chenille Jungle C-2354
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 387
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3281
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle C-2354 - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle C-2354 - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 388
+		 (++)code -> summer21
+		 (++)discount -> 19.6
+		 (++)discount_tax -> 0
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3284
+				 (++++)key -> coupon_data
+				 (++++)value -> Array
+				 (++++)display_key -> coupon_data
+				 (++++)display_value -> Array
+refunds -> Array
+date_created_gmt -> 2021-07-08T05:40:57
+date_modified_gmt -> 2021-07-08T05:41:34
+date_completed_gmt -> 
+date_paid_gmt -> 2021-07-08T05:41:34
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14399
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/30

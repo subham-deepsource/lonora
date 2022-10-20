@@ -1,0 +1,197 @@
+id -> 15654
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-28T12:06:18
+date_modified -> 2022-01-03T10:53:13
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 54.90
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_ub97dEz1m2hwi
+billing -> Array
+	 (+)first_name -> Caterina
+	 (+)last_name -> Romano
+	 (+)company -> 
+	 (+)address_1 -> Via Regina Margherita,53
+	 (+)address_2 -> 
+	 (+)city -> Limosano
+	 (+)state -> CB
+	 (+)postcode -> 86022
+	 (+)country -> IT
+	 (+)email -> cate.romano@tiscali.it
+	 (+)phone -> 3332556601
+shipping -> Array
+	 (+)first_name -> Caterina
+	 (+)last_name -> Romano
+	 (+)company -> 
+	 (+)address_1 -> Via Regina Margherita,53
+	 (+)address_2 -> 
+	 (+)city -> Limosano
+	 (+)state -> CB
+	 (+)postcode -> 86022
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 25U95893MV2987243
+customer_ip_address -> 5.179.189.203
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-03T10:53:13
+date_paid -> 2021-12-28T12:08:28
+cart_hash -> ecc9c6a6d469192ef17c19953d724409
+number -> 15654
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384226
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384227
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384228
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384229
+		 (++)key -> _billing_cf
+		 (++)value -> RMNCRN66T52E599Z
+	 (+)4 -> Array
+		 (++)id -> 384230
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384231
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384232
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384233
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1573519003.1640561228
+	 (+)8 -> Array
+		 (++)id -> 384234
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384235
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)10 -> Array
+		 (++)id -> 384237
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)11 -> Array
+		 (++)id -> 384238
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 2.22
+	 (+)12 -> Array
+		 (++)id -> 384245
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)13 -> Array
+		 (++)id -> 384246
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 453
+		 (++)name -> Tappeto PLAIN Nero - 57x280
+		 (++)product_id -> 11695
+		 (++)variation_id -> 11709
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3843
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x280
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x280
+			 (+++)1 -> Array
+				 (++++)id -> 3860
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860456
+		 (++)price -> 29.9
+		 (++)parent_name -> Tappeto PLAIN Nero
+	 (+)1 -> Array
+		 (++)id -> 454
+		 (++)name -> Tappeto PLAIN Nero - 57x230
+		 (++)product_id -> 11695
+		 (++)variation_id -> 11708
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 25.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 25.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3853
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x230
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x230
+			 (+++)1 -> Array
+				 (++++)id -> 3861
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860340
+		 (++)price -> 25
+		 (++)parent_name -> Tappeto PLAIN Nero
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 455
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3859
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto PLAIN Nero - 57x280 &times; 1, Tappeto PLAIN Nero - 57x230 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto PLAIN Nero - 57x280 &times; 1, Tappeto PLAIN Nero - 57x230 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-28T11:06:18
+date_modified_gmt -> 2022-01-03T09:53:13
+date_completed_gmt -> 2022-01-03T09:53:13
+date_paid_gmt -> 2021-12-28T11:08:28
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15654
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

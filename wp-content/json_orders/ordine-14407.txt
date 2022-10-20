@@ -1,0 +1,149 @@
+id -> 14407
+parent_id -> 0
+status -> failed
+currency -> EUR
+version -> 5.4.1
+prices_include_tax -> 
+date_created -> 2021-07-14T15:33:37
+date_modified -> 2021-07-14T15:36:23
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 105.99
+total_tax -> 0.00
+customer_id -> 33
+order_key -> wc_order_Owqk37nyCIZp1
+billing -> Array
+	 (+)first_name -> Carmela
+	 (+)last_name -> Pinamonti
+	 (+)company -> 
+	 (+)address_1 -> Via dell’Arco 24
+	 (+)address_2 -> 
+	 (+)city -> Santa Margherita Ligure
+	 (+)state -> GE
+	 (+)postcode -> 16038
+	 (+)country -> IT
+	 (+)email -> pinamonticarmela@gmail.com
+	 (+)phone -> 3355621966
+shipping -> Array
+	 (+)first_name -> Carmela
+	 (+)last_name -> Pinamonti
+	 (+)company -> 
+	 (+)address_1 -> Via dell’Arco 24
+	 (+)address_2 -> 
+	 (+)city -> Santa Margherita Ligure
+	 (+)state -> GE
+	 (+)postcode -> 16038
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> 
+customer_ip_address -> 37.159.1.147
+customer_user_agent -> Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> 429cc808c67e180fdb6636c351bbaf73
+number -> 14407
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 355469
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 355470
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 355471
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 355472
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 355473
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 355474
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 355476
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Jpi5BpX9tfJDyp
+	 (+)7 -> Array
+		 (++)id -> 355477
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1JD8eUHHOCz2PuPRSjoulEFa
+	 (+)8 -> Array
+		 (++)id -> 355478
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_1JD8DWHHOCz2PuPRntM0FZnH
+	 (+)9 -> Array
+		 (++)id -> 355481
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 399
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14128
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 98.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 98.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3376
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+		 (++)sku -> 8052532864096
+		 (++)price -> 98
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 400
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3382
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle 14-ALEKS - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-07-14T13:33:37
+date_modified_gmt -> 2021-07-14T13:36:23
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14407
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/33

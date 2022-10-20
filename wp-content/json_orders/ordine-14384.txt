@@ -1,0 +1,134 @@
+id -> 14384
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.4.1
+prices_include_tax -> 
+date_created -> 2021-07-01T10:44:58
+date_modified -> 2021-07-01T11:00:19
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 12.89
+total_tax -> 0.00
+customer_id -> 21
+order_key -> wc_order_PZ1XdUDUI00La
+billing -> Array
+	 (+)first_name -> Stéfàno
+	 (+)last_name -> Peløso
+	 (+)company -> 
+	 (+)address_1 -> via Accentò
+	 (+)address_2 -> 123
+	 (+)city -> Rôma
+	 (+)state -> AG
+	 (+)postcode -> 12345
+	 (+)country -> IT
+	 (+)email -> hello@stefano.io
+	 (+)phone -> 3331234567
+shipping -> Array
+	 (+)first_name -> Stéfàno
+	 (+)last_name -> Peløso
+	 (+)company -> 
+	 (+)address_1 -> via Accentò
+	 (+)address_2 -> 123
+	 (+)city -> Rôma
+	 (+)state -> AG
+	 (+)postcode -> 12345
+	 (+)country -> IT
+payment_method -> 
+payment_method_title -> 
+transaction_id -> 
+customer_ip_address -> 
+customer_user_agent -> 
+created_via -> admin
+customer_note -> Prima riga note
+
+Seconda riga dopo una riga vuota
+Simbolo € euro è accento
+Seguono due righe con solo spazi:
+         
+     
+
+date_completed -> 
+date_paid -> 2021-07-01T10:55:10
+cart_hash -> 
+number -> 14384
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 354868
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 354869
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 354870
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 354871
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 354898
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)5 -> Array
+		 (++)id -> 354899
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 375
+		 (++)name -> Snappy mat A LOVELY POST-IT
+		 (++)product_id -> 13995
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 4.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 4.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3195
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864485
+		 (++)price -> 4.9
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 376
+		 (++)method_title -> Spedizione
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 0
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-07-01T08:44:58
+date_modified_gmt -> 2021-07-01T09:00:19
+date_completed_gmt -> 
+date_paid_gmt -> 2021-07-01T08:55:10
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14384
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/21

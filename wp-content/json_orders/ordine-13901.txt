@@ -1,0 +1,179 @@
+id -> 13901
+parent_id -> 0
+number -> 13901
+order_key -> wc_order_W7Gp083sarzzl
+created_via -> checkout
+version -> 4.5.2
+status -> processing
+currency -> EUR
+date_created -> 2021-03-21T12:17:40
+date_created_gmt -> 2021-03-21T11:17:40
+date_modified -> 2021-03-21T12:18:19
+date_modified_gmt -> 2021-03-21T11:18:19
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 107.00
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 20
+customer_ip_address -> 195.32.39.32
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> NICOLA
+	 (+)last_name -> GORGOGLIONE
+	 (+)company -> 
+	 (+)address_1 -> DON BARTOLOMEO GRAZIOLI 33
+	 (+)address_2 -> PORTINERIA
+	 (+)city -> Milano
+	 (+)state -> MI
+	 (+)postcode -> 20161
+	 (+)country -> IT
+	 (+)email -> cinziabevolo@gmail.com
+	 (+)phone -> 338 7312273
+shipping -> Array
+	 (+)first_name -> NICOLA
+	 (+)last_name -> GORGOGLIONE
+	 (+)company -> 
+	 (+)address_1 -> DON BARTOLOMEO GRAZIOLI 33
+	 (+)address_2 -> PORTINERIA
+	 (+)city -> Milano
+	 (+)state -> MI
+	 (+)postcode -> 20161
+	 (+)country -> IT
+payment_method -> stripe
+payment_method_title -> Carta di credito (Stripe)
+transaction_id -> ch_1IXPIRHHOCz2PuPRAZzc9yxo
+date_paid -> 2021-03-21T12:18:19
+date_paid_gmt -> 2021-03-21T11:18:19
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> 39923c99d9d8915e2c0f8c0d4e221861
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 327643
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 327644
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 327645
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 327646
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 327647
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 327648
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_J9ijJPrbWFQEDS
+	 (+)6 -> Array
+		 (++)id -> 327649
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1IXPHqHHOCz2PuPRqn7u5t9Q
+	 (+)7 -> Array
+		 (++)id -> 327650
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_1IXPHtHHOCz2PuPRO3QmouVy
+	 (+)8 -> Array
+		 (++)id -> 327651
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 327652
+		 (++)key -> _stripe_fee
+		 (++)value -> 1.75
+	 (+)10 -> Array
+		 (++)id -> 327653
+		 (++)key -> _stripe_net
+		 (++)value -> 105.25
+	 (+)11 -> Array
+		 (++)id -> 327654
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)12 -> Array
+		 (++)id -> 327684
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 355
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Grigio - 70x140
+		 (++)product_id -> 12421
+		 (++)variation_id -> 12428
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 29.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 29.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3017
+				 (++++)key -> pa_misura
+				 (++++)value -> 70x140
+			 (+++)1 -> Array
+				 (++++)id -> 3033
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862511
+		 (++)price -> 29
+	 (+)1 -> Array
+		 (++)id -> 356
+		 (++)name -> Tappeto SETA COLLECTION Rosa
+		 (++)product_id -> 12515
+		 (++)variation_id -> 0
+		 (++)quantity -> 2
+		 (++)tax_class -> 
+		 (++)subtotal -> 78.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 78.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3034
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 2
+		 (++)sku -> 8052532862696
+		 (++)price -> 39
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 357
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3032
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Grigio - 70x140 &times; 1, Tappeto SETA COLLECTION Rosa &times; 2
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13901
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/20

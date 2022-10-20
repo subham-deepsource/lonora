@@ -1,0 +1,128 @@
+id -> 13692
+parent_id -> 0
+number -> 13692
+order_key -> wc_order_s3jOBRyk4bqeC
+created_via -> checkout
+version -> 4.5.2
+status -> on-hold
+currency -> EUR
+date_created -> 2020-11-19T15:54:54
+date_created_gmt -> 2020-11-19T14:54:54
+date_modified -> 2020-11-19T15:54:55
+date_modified_gmt -> 2020-11-19T14:54:55
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 49.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 11
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Christoher
+	 (+)last_name -> Screnci
+	 (+)company -> 
+	 (+)address_1 -> via mosso 20c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> christopher@softplaceweb.com
+	 (+)phone -> 015225483
+shipping -> Array
+	 (+)first_name -> Christoher
+	 (+)last_name -> Screnci
+	 (+)company -> 
+	 (+)address_1 -> via candelo
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 
+date_paid_gmt -> 
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> 3ecc8d95abd213da16f3a3f26d52b5ef
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 282873
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 282874
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 282875
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 282876
+		 (++)key -> _billing_cf
+		 (++)value -> scrcrs92t27a859v
+	 (+)4 -> Array
+		 (++)id -> 282877
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 303
+		 (++)name -> Tappeto VINTAGE SAX Rosso - 100x150
+		 (++)product_id -> 12643
+		 (++)variation_id -> 12645
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 45.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 45.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2531
+				 (++++)key -> pa_misura
+				 (++++)value -> 100x150
+			 (+++)1 -> Array
+				 (++++)id -> 2538
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532863136
+		 (++)price -> 45
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 304
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2537
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto VINTAGE SAX Rosso - 100x150 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13692
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/11

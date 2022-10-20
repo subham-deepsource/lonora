@@ -1,0 +1,136 @@
+id -> 13528
+parent_id -> 0
+number -> 13528
+order_key -> wc_order_NAmNH6wcG249y
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2020-11-18T17:11:59
+date_created_gmt -> 2020-11-18T16:11:59
+date_modified -> 2020-11-18T17:18:00
+date_modified_gmt -> 2020-11-18T16:18:00
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 20.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 14
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Monica
+	 (+)last_name -> Avanzi
+	 (+)company -> 
+	 (+)address_1 -> Via De Mosso, 20
+	 (+)address_2 -> 
+	 (+)city -> Biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> monica@softplaceweb.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Monica
+	 (+)last_name -> Avanzi
+	 (+)company -> 
+	 (+)address_1 -> Via De Mosso, 20
+	 (+)address_2 -> 
+	 (+)city -> Biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2020-11-18T17:18:00
+date_paid_gmt -> 2020-11-18T16:18:00
+date_completed -> 2020-11-18T17:18:00
+date_completed_gmt -> 2020-11-18T16:18:00
+cart_hash -> b0b95bfe667d495e78939fce92be008e
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 281580
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 281581
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 281582
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 281583
+		 (++)key -> _billing_cf
+		 (++)value -> VNZMNC90H63A859U
+	 (+)4 -> Array
+		 (++)id -> 281584
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 281626
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 281643
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 287
+		 (++)name -> Tappeto Cotone MALAGA Blu - 60x120
+		 (++)product_id -> 12332
+		 (++)variation_id -> 12338
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2385
+				 (++++)key -> pa_misura
+				 (++++)value -> 60x120
+			 (+++)1 -> Array
+				 (++++)id -> 2392
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862276
+		 (++)price -> 16
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 288
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2391
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone MALAGA Blu - 60x120 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13528
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/14

@@ -1,0 +1,146 @@
+id -> 15538
+parent_id -> 0
+status -> cancelled
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-08T17:15:57
+date_modified -> 2021-12-08T17:31:33
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 129.00
+total_tax -> 0.00
+customer_id -> 19
+order_key -> wc_order_IYPyhdpCTJj7d
+billing -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Canonica
+	 (+)company -> 
+	 (+)address_1 -> Hdhd
+	 (+)address_2 -> 
+	 (+)city -> Jdhd
+	 (+)state -> AG
+	 (+)postcode -> 20019
+	 (+)country -> IT
+	 (+)email -> staff@lonora.it
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> Paolo
+	 (+)last_name -> Canonica
+	 (+)company -> 
+	 (+)address_1 -> Hdhd
+	 (+)address_2 -> 
+	 (+)city -> Jdhd
+	 (+)state -> AG
+	 (+)postcode -> 20019
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 
+customer_ip_address -> 89.217.108.147
+customer_user_agent -> Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> dcbf76f4e8883cfb0b2d85fb4b4ec562
+number -> 15538
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 380195
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 380196
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 380197
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 380198
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 380199
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 380200
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 380201
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 380202
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 55051376.1638218853
+	 (+)8 -> Array
+		 (++)id -> 380203
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 426
+		 (++)name -> Tappeto Cotone/Ciniglia CRYSTAL MUSTARD - 120x180
+		 (++)product_id -> 14297
+		 (++)variation_id -> 14305
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 129.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 129.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3610
+				 (++++)key -> pa_misura
+				 (++++)value -> 120x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 120x180
+		 (++)sku -> 8052532864393
+		 (++)price -> 129
+		 (++)parent_name -> Tappeto Cotone/Ciniglia CRYSTAL MUSTARD
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 427
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3616
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone/Ciniglia CRYSTAL MUSTARD - 120x180 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Cotone/Ciniglia CRYSTAL MUSTARD - 120x180 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-08T16:15:57
+date_modified_gmt -> 2021-12-08T16:31:33
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15538
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/19

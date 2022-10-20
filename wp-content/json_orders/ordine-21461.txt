@@ -1,0 +1,149 @@
+id -> 21461
+parent_id -> 0
+status -> cancelled
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-06-29T10:28:16
+date_modified -> 2022-06-29T11:50:15
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 73.95
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_DR2bl7nkNo1i4
+billing -> Array
+	 (+)first_name -> luca
+	 (+)last_name -> noah
+	 (+)company -> 
+	 (+)address_1 -> via monviso 18
+	 (+)address_2 -> 
+	 (+)city -> settimo torinese
+	 (+)state -> TO
+	 (+)postcode -> 10036
+	 (+)country -> IT
+	 (+)email -> 
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> luca
+	 (+)last_name -> noah
+	 (+)company -> 
+	 (+)address_1 -> via monviso 18
+	 (+)address_2 -> 
+	 (+)city -> settimo torinese
+	 (+)state -> TO
+	 (+)postcode -> 10036
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> cod
+payment_method_title -> Pagamento alla consegna
+transaction_id -> 
+customer_ip_address -> 31.156.5.61
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> e89cbd1f2b252431efbe434d104b9c19
+number -> 21461
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 459276
+		 (++)key -> _billing_email_1
+		 (++)value -> kluca968@gmail.com
+	 (+)1 -> Array
+		 (++)id -> 459277
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)2 -> Array
+		 (++)id -> 459278
+		 (++)key -> billing_email_1
+		 (++)value -> kluca968@gmail.com
+	 (+)3 -> Array
+		 (++)id -> 459279
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 13a8e72b-db4c-4b67-a133-bb0e4568ca9a
+	 (+)4 -> Array
+		 (++)id -> 459280
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)5 -> Array
+		 (++)id -> 459285
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)6 -> Array
+		 (++)id -> 459286
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)7 -> Array
+		 (++)id -> 459290
+		 (++)key -> _pys_purchase_event_fired
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 506
+		 (++)name -> Tappeto Cotone/Ciniglia CRYSTAL TERRA - 80x150
+		 (++)product_id -> 14326
+		 (++)variation_id -> 14335
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 69.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 69.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4290
+				 (++++)key -> pa_misura
+				 (++++)value -> 80x150
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 80x150
+		 (++)sku -> 8052532864294
+		 (++)price -> 69
+		 (++)parent_name -> Tappeto Cotone/Ciniglia CRYSTAL TERRA
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 508
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4302
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Cotone/Ciniglia CRYSTAL TERRA - 80x150 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Cotone/Ciniglia CRYSTAL TERRA - 80x150 &times; 1
+fee_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 507
+		 (++)name -> Pagamento alla consegna
+		 (++)tax_class -> 0
+		 (++)tax_status -> taxable
+		 (++)amount -> 4.95
+		 (++)total -> 4.95
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-06-29T08:28:16
+date_modified_gmt -> 2022-06-29T09:50:15
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/21461
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

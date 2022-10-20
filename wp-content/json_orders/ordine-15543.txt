@@ -1,0 +1,152 @@
+id -> 15543
+parent_id -> 0
+status -> failed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2021-12-14T11:23:16
+date_modified -> 2021-12-14T11:23:47
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 31.99
+total_tax -> 0.00
+customer_id -> 59
+order_key -> wc_order_4DDuZFZBiMdf0
+billing -> Array
+	 (+)first_name -> Simona
+	 (+)last_name -> Valente
+	 (+)company -> 
+	 (+)address_1 -> Via vastato 20/2
+	 (+)address_2 -> 
+	 (+)city -> Recco
+	 (+)state -> GE
+	 (+)postcode -> 16036
+	 (+)country -> IT
+	 (+)email -> simoelasara@gmail.com
+	 (+)phone -> +393356393690
+shipping -> Array
+	 (+)first_name -> Simona
+	 (+)last_name -> Valente
+	 (+)company -> 
+	 (+)address_1 -> Via vastato 20/2
+	 (+)address_2 -> 
+	 (+)city -> Recco
+	 (+)state -> GE
+	 (+)postcode -> 16036
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> 
+customer_ip_address -> 95.74.72.214
+customer_user_agent -> Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A202F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> Sono un privato
+date_completed -> 
+date_paid -> 
+cart_hash -> 7b81c3e0fef60ab5256596d7ff5ac20e
+number -> 15543
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 380511
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 380512
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 380513
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 380514
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 380515
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 380516
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 380517
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 380518
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 1184873789.1639477147
+	 (+)8 -> Array
+		 (++)id -> 380519
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 380520
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_Km6Mp5cPb6i4oH
+	 (+)10 -> Array
+		 (++)id -> 380521
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1K6YAAHHOCz2PuPRTm8k2KJ7
+	 (+)11 -> Array
+		 (++)id -> 380522
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3K6YAEHHOCz2PuPR1G5UNe0d
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 428
+		 (++)name -> Tappeto ALMA Grigio Parure 3 pezzi
+		 (++)product_id -> 12057
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 24.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 24.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+		 (++)sku -> 8052532861798
+		 (++)price -> 24
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 429
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3631
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto ALMA Grigio Parure 3 pezzi &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto ALMA Grigio Parure 3 pezzi &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-12-14T10:23:16
+date_modified_gmt -> 2021-12-14T10:23:47
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15543
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/customers/59

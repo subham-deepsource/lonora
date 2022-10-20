@@ -1,0 +1,136 @@
+id -> 13547
+parent_id -> 0
+number -> 13547
+order_key -> wc_order_KHecZQh3gYrTF
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2020-11-18T17:58:27
+date_created_gmt -> 2020-11-18T16:58:27
+date_modified -> 2020-11-18T18:00:09
+date_modified_gmt -> 2020-11-18T17:00:09
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 130.00
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 11
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Christoher
+	 (+)last_name -> Screnci
+	 (+)company -> 
+	 (+)address_1 -> via mosso 20c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> christopher@softplaceweb.com
+	 (+)phone -> 015225483
+shipping -> Array
+	 (+)first_name -> Christoher
+	 (+)last_name -> Screnci
+	 (+)company -> 
+	 (+)address_1 -> via candelo
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2020-11-18T18:00:09
+date_paid_gmt -> 2020-11-18T17:00:09
+date_completed -> 2020-11-18T18:00:09
+date_completed_gmt -> 2020-11-18T17:00:09
+cart_hash -> 8ffcc1c2c4cc59b0b82b553c25b8612e
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 281906
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 281907
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 281908
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 281909
+		 (++)key -> _billing_cf
+		 (++)value -> scrcrs92t27a859v
+	 (+)4 -> Array
+		 (++)id -> 281910
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 281950
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 281978
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 296
+		 (++)name -> Tappeto VINTAGE SAX Rosso - 120x180
+		 (++)product_id -> 12643
+		 (++)variation_id -> 12646
+		 (++)quantity -> 2
+		 (++)tax_class -> 
+		 (++)subtotal -> 130.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 130.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2469
+				 (++++)key -> pa_misura
+				 (++++)value -> 120x180
+			 (+++)1 -> Array
+				 (++++)id -> 2476
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 2
+		 (++)sku -> 8052532863174
+		 (++)price -> 65
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 297
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2475
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto VINTAGE SAX Rosso - 120x180 &times; 2
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13547
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/11

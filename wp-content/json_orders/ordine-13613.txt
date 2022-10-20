@@ -1,0 +1,159 @@
+id -> 13613
+parent_id -> 0
+number -> 13613
+order_key -> wc_order_TcdDsICAThdzg
+created_via -> checkout
+version -> 4.5.2
+status -> completed
+currency -> EUR
+date_created -> 2020-11-19T12:25:58
+date_created_gmt -> 2020-11-19T11:25:58
+date_modified -> 2020-11-19T13:06:11
+date_modified_gmt -> 2020-11-19T12:06:11
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 4.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 82.99
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 12
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> cerruti@softplaceweb.com
+	 (+)phone -> 1234567890
+shipping -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 2020-11-19T12:27:51
+date_paid_gmt -> 2020-11-19T11:27:51
+date_completed -> 2020-11-19T13:06:11
+date_completed_gmt -> 2020-11-19T12:06:11
+cart_hash -> c57250dabd3a722c8c5d95701c4e9084
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 282245
+		 (++)key -> _billing_invoice_type
+		 (++)value -> invoice
+	 (+)1 -> Array
+		 (++)id -> 282246
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 282247
+		 (++)key -> _billing_piva
+		 (++)value -> 12345678901
+	 (+)3 -> Array
+		 (++)id -> 282248
+		 (++)key -> _billing_cf
+		 (++)value -> CRRSMN01D03A859K
+	 (+)4 -> Array
+		 (++)id -> 282249
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 282294
+		 (++)key -> _wp_page_template
+		 (++)value -> default
+	 (+)6 -> Array
+		 (++)id -> 282311
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 298
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Grigio - 90x150
+		 (++)product_id -> 12421
+		 (++)variation_id -> 12429
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2486
+				 (++++)key -> pa_misura
+				 (++++)value -> 90x150
+			 (+++)1 -> Array
+				 (++++)id -> 2503
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862573
+		 (++)price -> 39
+	 (+)1 -> Array
+		 (++)id -> 299
+		 (++)name -> Tappeto Chenille TWO FACE CORITIBA Ecru - 90x150
+		 (++)product_id -> 12448
+		 (++)variation_id -> 12456
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 39.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 39.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2496
+				 (++++)key -> pa_misura
+				 (++++)value -> 90x150
+			 (+++)1 -> Array
+				 (++++)id -> 2504
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532862603
+		 (++)price -> 39
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 300
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 4.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2502
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Chenille TWO FACE CORITIBA Grigio - 90x150 &times; 1, Tappeto Chenille TWO FACE CORITIBA Ecru - 90x150 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13613
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/12

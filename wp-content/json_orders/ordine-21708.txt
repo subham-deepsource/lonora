@@ -1,0 +1,109 @@
+id -> 21708
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 6.7.0
+prices_include_tax -> 
+date_created -> 2022-07-18T16:52:01
+date_modified -> 2022-07-19T16:57:14
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 36.90
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_suXNOTyqG1h8F
+billing -> Array
+	 (+)first_name -> Dario
+	 (+)last_name -> Mangiacasale
+	 (+)company -> 
+	 (+)address_1 -> Via Casale 80/B
+	 (+)address_2 -> 
+	 (+)city -> San Mauro Torinese
+	 (+)state -> TO
+	 (+)postcode -> 10099
+	 (+)country -> IT
+	 (+)email -> darman98@live.it
+	 (+)phone -> 3289640928
+shipping -> Array
+	 (+)first_name -> 
+	 (+)last_name -> 
+	 (+)company -> 
+	 (+)address_1 -> 
+	 (+)address_2 -> 
+	 (+)city -> 
+	 (+)state -> 
+	 (+)postcode -> 
+	 (+)country -> 
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> 
+customer_ip_address -> 
+customer_user_agent -> 
+created_via -> admin
+customer_note -> 
+date_completed -> 2022-07-19T16:57:14
+date_paid -> 2022-07-19T16:57:14
+cart_hash -> 
+number -> 21708
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 472525
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 512
+		 (++)name -> Tappeto PLAIN Rosso - 57x280
+		 (++)product_id -> 11710
+		 (++)variation_id -> 11724
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 36.90
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 36.90
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4336
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x280
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x280
+			 (+++)1 -> Array
+				 (++++)id -> 4337
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532860135
+		 (++)price -> 36.9
+		 (++)image -> Array
+			 (+++)id -> 13777
+			 (+++)src -> https://lonora.it/wp-content/uploads/2020/10/UNICA_57X280_RED-rotated-min.jpg
+		 (++)parent_name -> Tappeto PLAIN Rosso
+tax_lines -> Array
+shipping_lines -> Array
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+payment_url -> https://lonora.it/checkout/order-pay/21708/?pay_for_order=true&key=wc_order_suXNOTyqG1h8F
+is_editable -> 
+needs_payment -> 
+needs_processing -> 1
+date_created_gmt -> 2022-07-18T14:52:01
+date_modified_gmt -> 2022-07-19T14:57:14
+date_completed_gmt -> 2022-07-19T14:57:14
+date_paid_gmt -> 2022-07-19T14:57:14
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/21708
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

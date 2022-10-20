@@ -1,0 +1,168 @@
+id -> 14609
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.6.0
+prices_include_tax -> 
+date_created -> 2021-10-03T17:26:26
+date_modified -> 2021-10-03T17:28:03
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 82.99
+total_tax -> 0.00
+customer_id -> 52
+order_key -> wc_order_w8r3Jk3jqCEKc
+billing -> Array
+	 (+)first_name -> Teresa
+	 (+)last_name -> Francone
+	 (+)company -> Teresa Francone
+	 (+)address_1 -> Desiderio 4
+	 (+)address_2 -> 
+	 (+)city -> Santa Croce di Magliano
+	 (+)state -> CB
+	 (+)postcode -> 86047
+	 (+)country -> IT
+	 (+)email -> tessa_francone@hotmail.com
+	 (+)phone -> 3478626139
+shipping -> Array
+	 (+)first_name -> Teresa
+	 (+)last_name -> Francone
+	 (+)company -> Teresa Francone
+	 (+)address_1 -> Desiderio 4
+	 (+)address_2 -> 
+	 (+)city -> Santa Croce di Magliano
+	 (+)state -> CB
+	 (+)postcode -> 86047
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 64S41024K54539438
+customer_ip_address -> 31.191.122.76
+customer_user_agent -> Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 206.0.0.30.118 (iPhone13,3; iOS 14_7_1; it_IT; it-IT; scale=3.00; 1170x2532; 318760365)
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-10-03T17:28:03
+cart_hash -> 8e56ed0ef7237cfecf430d1495004db7
+number -> 14609
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 356540
+		 (++)key -> _billing_invoice_type
+		 (++)value -> invoice
+	 (+)1 -> Array
+		 (++)id -> 356541
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 356542
+		 (++)key -> _billing_piva
+		 (++)value -> 01669920702
+	 (+)3 -> Array
+		 (++)id -> 356543
+		 (++)key -> _billing_cf
+		 (++)value -> FRNTRS82S44H501F
+	 (+)4 -> Array
+		 (++)id -> 356544
+		 (++)key -> _billing_pec
+		 (++)value -> teresafrancone@pec.it
+	 (+)5 -> Array
+		 (++)id -> 356545
+		 (++)key -> _billing_pa_code
+		 (++)value -> M5UXCR1
+	 (+)6 -> Array
+		 (++)id -> 356546
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 356547
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)8 -> Array
+		 (++)id -> 356548
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)9 -> Array
+		 (++)id -> 356550
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)10 -> Array
+		 (++)id -> 356551
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 3.17
+	 (+)11 -> Array
+		 (++)id -> 356558
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)12 -> Array
+		 (++)id -> 356559
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 415
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14130
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 75.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 75.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3512
+				 (++++)key -> pa_misura
+				 (++++)value -> 120x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 120x180
+			 (+++)1 -> Array
+				 (++++)id -> 3519
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864089
+		 (++)price -> 75
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 416
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3518
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-10-03T15:26:26
+date_modified_gmt -> 2021-10-03T15:28:03
+date_completed_gmt -> 
+date_paid_gmt -> 2021-10-03T15:28:03
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14609
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/52

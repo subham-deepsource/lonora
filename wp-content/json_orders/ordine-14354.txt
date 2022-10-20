@@ -1,0 +1,159 @@
+id -> 14354
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.5.2
+prices_include_tax -> 
+date_created -> 2021-06-26T19:43:16
+date_modified -> 2021-09-10T10:44:32
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 82.99
+total_tax -> 0.00
+customer_id -> 24
+order_key -> wc_order_kMkMpdBR9OWUa
+billing -> Array
+	 (+)first_name -> Roberta
+	 (+)last_name -> Scapolan
+	 (+)company -> 
+	 (+)address_1 -> via meduna
+	 (+)address_2 -> 29
+	 (+)city -> Mansuè
+	 (+)state -> TV
+	 (+)postcode -> 31040
+	 (+)country -> IT
+	 (+)email -> robynoemi79@gmail.com
+	 (+)phone -> 3475921355
+shipping -> Array
+	 (+)first_name -> Roberta
+	 (+)last_name -> Scapolan
+	 (+)company -> 
+	 (+)address_1 -> via meduna
+	 (+)address_2 -> 29
+	 (+)city -> Mansuè
+	 (+)state -> TV
+	 (+)postcode -> 31040
+	 (+)country -> IT
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 15W49043X91942839
+customer_ip_address -> 188.228.192.39
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/324.0.0.48.120;]
+created_via -> checkout
+customer_note -> Consegna primo pomeriggio
+date_completed -> 2021-09-10T10:44:32
+date_paid -> 2021-06-26T19:56:32
+cart_hash -> 8e56ed0ef7237cfecf430d1495004db7
+number -> 14354
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 354454
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 354455
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 354456
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 354457
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 354458
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 354459
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)6 -> Array
+		 (++)id -> 354461
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)7 -> Array
+		 (++)id -> 354462
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 3.17
+	 (+)8 -> Array
+		 (++)id -> 354469
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+	 (+)9 -> Array
+		 (++)id -> 356275
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)10 -> Array
+		 (++)id -> 356276
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 363
+		 (++)name -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180
+		 (++)product_id -> 14127
+		 (++)variation_id -> 14130
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 75.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 75.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3088
+				 (++++)key -> pa_misura
+				 (++++)value -> 120x180
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 120x180
+			 (+++)1 -> Array
+				 (++++)id -> 3095
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864089
+		 (++)price -> 75
+		 (++)parent_name -> Tappeto Digital Chenille Jungle 14-ALEKS
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 364
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3094
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle 14-ALEKS - 120x180 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-06-26T17:43:16
+date_modified_gmt -> 2021-09-10T08:44:32
+date_completed_gmt -> 2021-09-10T08:44:32
+date_paid_gmt -> 2021-06-26T17:56:32
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14354
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/24

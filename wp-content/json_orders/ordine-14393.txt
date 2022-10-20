@@ -1,0 +1,163 @@
+id -> 14393
+parent_id -> 0
+status -> processing
+currency -> EUR
+version -> 5.4.1
+prices_include_tax -> 
+date_created -> 2021-07-07T17:37:50
+date_modified -> 2021-07-07T17:38:33
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 105.99
+total_tax -> 0.00
+customer_id -> 29
+order_key -> wc_order_CRMBNbeym3Kks
+billing -> Array
+	 (+)first_name -> daniela
+	 (+)last_name -> mariani -chiurazzi
+	 (+)company -> 
+	 (+)address_1 -> Via Gaetano Donizetti 20c
+	 (+)address_2 -> 
+	 (+)city -> roma
+	 (+)state -> RM
+	 (+)postcode -> 00198
+	 (+)country -> IT
+	 (+)email -> rita.severini@gmail.com
+	 (+)phone -> 3490885102
+shipping -> Array
+	 (+)first_name -> daniela
+	 (+)last_name -> mariani -chiurazzi
+	 (+)company -> 
+	 (+)address_1 -> Via Gaetano Donizetti 20c
+	 (+)address_2 -> 
+	 (+)city -> roma
+	 (+)state -> RM
+	 (+)postcode -> 00198
+	 (+)country -> IT
+payment_method -> paypal
+payment_method_title -> PayPal
+transaction_id -> 46D33612S3910412Y
+customer_ip_address -> 151.40.174.94
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 2021-07-07T17:38:33
+cart_hash -> 3a5b2173f10af984bafec948c800cdb1
+number -> 14393
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 355095
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 355096
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 355097
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 355098
+		 (++)key -> _billing_cf
+		 (++)value -> 
+	 (+)4 -> Array
+		 (++)id -> 355099
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 355100
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 355101
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 355102
+		 (++)key -> Payment type
+		 (++)value -> instant
+	 (+)8 -> Array
+		 (++)id -> 355104
+		 (++)key -> _paypal_status
+		 (++)value -> completed
+	 (+)9 -> Array
+		 (++)id -> 355105
+		 (++)key -> PayPal Transaction Fee
+		 (++)value -> 3.95
+	 (+)10 -> Array
+		 (++)id -> 355112
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)11 -> Array
+		 (++)id -> 355113
+		 (++)key -> _wishlist_analytics_processed
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 384
+		 (++)name -> Tappeto Digital Chenille Jungle C-2354 - 140x200
+		 (++)product_id -> 14175
+		 (++)variation_id -> 14181
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 98.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 98.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3258
+				 (++++)key -> pa_misura
+				 (++++)value -> 140x200
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 140x200
+			 (+++)1 -> Array
+				 (++++)id -> 3265
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864126
+		 (++)price -> 98
+		 (++)parent_name -> Tappeto Digital Chenille Jungle C-2354
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 385
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3264
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle C-2354 - 140x200 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle C-2354 - 140x200 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2021-07-07T15:37:50
+date_modified_gmt -> 2021-07-07T15:38:33
+date_completed_gmt -> 
+date_paid_gmt -> 2021-07-07T15:38:33
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/14393
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/29

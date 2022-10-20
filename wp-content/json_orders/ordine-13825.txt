@@ -1,0 +1,174 @@
+id -> 13825
+parent_id -> 0
+number -> 13825
+order_key -> wc_order_qwEwulokoVFSC
+created_via -> checkout
+version -> 4.5.2
+status -> on-hold
+currency -> EUR
+date_created -> 2020-11-26T12:08:39
+date_created_gmt -> 2020-11-26T11:08:39
+date_modified -> 2020-11-26T12:08:41
+date_modified_gmt -> 2020-11-26T11:08:41
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 128.00
+total_tax -> 0.00
+prices_include_tax -> 
+customer_id -> 12
+customer_ip_address -> ::ffff:79.62.207.200
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+customer_note -> 
+billing -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+	 (+)email -> cerruti@softplaceweb.com
+	 (+)phone -> 1234567890
+shipping -> Array
+	 (+)first_name -> Simone
+	 (+)last_name -> Cerruti
+	 (+)company -> SoftPlaceWeb
+	 (+)address_1 -> via de mosso 20/c
+	 (+)address_2 -> 
+	 (+)city -> biella
+	 (+)state -> BI
+	 (+)postcode -> 13900
+	 (+)country -> IT
+payment_method -> bacs
+payment_method_title -> Bonifico bancario
+transaction_id -> 
+date_paid -> 
+date_paid_gmt -> 
+date_completed -> 
+date_completed_gmt -> 
+cart_hash -> c092757dc4a6761f32891579803adb33
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 285297
+		 (++)key -> _billing_invoice_type
+		 (++)value -> invoice
+	 (+)1 -> Array
+		 (++)id -> 285298
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 285299
+		 (++)key -> _billing_piva
+		 (++)value -> 12345678901
+	 (+)3 -> Array
+		 (++)id -> 285300
+		 (++)key -> _billing_cf
+		 (++)value -> CRRSMN01D03A859K
+	 (+)4 -> Array
+		 (++)id -> 285301
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)5 -> Array
+		 (++)id -> 285333
+		 (++)key -> _wple_stock_revision_retries
+		 (++)value -> 2
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 337
+		 (++)name -> Tappeto ALMA Grigio Parure 3 pezzi
+		 (++)product_id -> 12057
+		 (++)variation_id -> 0
+		 (++)quantity -> 4
+		 (++)tax_class -> 
+		 (++)subtotal -> 96.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 96.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2881
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 4
+		 (++)sku -> 8052532861798
+		 (++)price -> 24
+	 (+)1 -> Array
+		 (++)id -> 338
+		 (++)name -> Tappeto ALMA Rosso - 55x90
+		 (++)product_id -> 12065
+		 (++)variation_id -> 12071
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2864
+				 (++++)key -> pa_misura
+				 (++++)value -> 55x90
+			 (+++)1 -> Array
+				 (++++)id -> 2882
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532861644
+		 (++)price -> 16
+	 (+)2 -> Array
+		 (++)id -> 339
+		 (++)name -> Tappeto ALMA Verde - 55x90
+		 (++)product_id -> 12081
+		 (++)variation_id -> 12087
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 16.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 16.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2874
+				 (++++)key -> pa_misura
+				 (++++)value -> 55x90
+			 (+++)1 -> Array
+				 (++++)id -> 2883
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+		 (++)sku -> 8052532861651
+		 (++)price -> 16
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 340
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 1
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 2880
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto ALMA Grigio Parure 3 pezzi &times; 4, Tappeto ALMA Rosso - 55x90 &times; 1, Tappeto ALMA Verde - 55x90 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders/13825
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/orders
+	 (+)customer -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://www.lonora.it/wp-json/wc/v3/customers/12

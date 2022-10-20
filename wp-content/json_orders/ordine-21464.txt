@@ -1,0 +1,141 @@
+id -> 21464
+parent_id -> 0
+status -> cancelled
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-06-29T11:35:43
+date_modified -> 2022-06-29T11:54:12
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 64.95
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_JHzKp0UtkYp23
+billing -> Array
+	 (+)first_name -> luca
+	 (+)last_name -> noah
+	 (+)company -> 
+	 (+)address_1 -> via montegrappa 44
+	 (+)address_2 -> 
+	 (+)city -> settimo torinese
+	 (+)state -> TO
+	 (+)postcode -> 10036
+	 (+)country -> IT
+	 (+)email -> kluca968@gmail.com
+	 (+)phone -> 
+shipping -> Array
+	 (+)first_name -> luca
+	 (+)last_name -> noah
+	 (+)company -> 
+	 (+)address_1 -> via montegrappa 44
+	 (+)address_2 -> 
+	 (+)city -> settimo torinese
+	 (+)state -> TO
+	 (+)postcode -> 10036
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> cod
+payment_method_title -> Pagamento alla consegna
+transaction_id -> 
+customer_ip_address -> 31.156.5.61
+customer_user_agent -> Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+created_via -> checkout
+customer_note -> 
+date_completed -> 
+date_paid -> 
+cart_hash -> 9d6f263472409086985b64f8e8c05737
+number -> 21464
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 459339
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)1 -> Array
+		 (++)id -> 459340
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> ed6c2d5d-4515-4762-a751-af84477ca8ee
+	 (+)2 -> Array
+		 (++)id -> 459341
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)3 -> Array
+		 (++)id -> 459346
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)4 -> Array
+		 (++)id -> 459347
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)5 -> Array
+		 (++)id -> 459350
+		 (++)key -> _pys_purchase_event_fired
+		 (++)value -> 1
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 509
+		 (++)name -> Tappeto ALMA Baby Blu - 55x90
+		 (++)product_id -> 12113
+		 (++)variation_id -> 12119
+		 (++)quantity -> 3
+		 (++)tax_class -> 
+		 (++)subtotal -> 60.00
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 60.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4313
+				 (++++)key -> pa_misura
+				 (++++)value -> 55x90
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 55x90
+		 (++)sku -> 8052532861675
+		 (++)price -> 20
+		 (++)parent_name -> Tappeto ALMA Baby Blu
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 511
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 6
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4325
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto ALMA Baby Blu - 55x90 &times; 3
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto ALMA Baby Blu - 55x90 &times; 3
+fee_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 510
+		 (++)name -> Pagamento alla consegna
+		 (++)tax_class -> 0
+		 (++)tax_status -> taxable
+		 (++)amount -> 4.95
+		 (++)total -> 4.95
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-06-29T09:35:43
+date_modified_gmt -> 2022-06-29T09:54:12
+date_completed_gmt -> 
+date_paid_gmt -> 
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/21464
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

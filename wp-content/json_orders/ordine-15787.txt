@@ -1,0 +1,193 @@
+id -> 15787
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 6.1.2
+prices_include_tax -> 
+date_created -> 2022-03-19T15:06:36
+date_modified -> 2022-03-29T16:02:29
+discount_total -> 0.00
+discount_tax -> 0.00
+shipping_total -> 7.99
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 31.39
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_Vk8K1Uv3KlvP3
+billing -> Array
+	 (+)first_name -> MARIA ROSARIA
+	 (+)last_name -> Panaccione
+	 (+)company -> 
+	 (+)address_1 -> Via Ugo Tognazzi 3
+	 (+)address_2 -> Scala D, citofono 88
+	 (+)city -> Milano
+	 (+)state -> MI
+	 (+)postcode -> 20128
+	 (+)country -> IT
+	 (+)email -> mariarosaria.panaccione@gmail.com
+	 (+)phone -> 3381965691
+shipping -> Array
+	 (+)first_name -> MARIA ROSARIA
+	 (+)last_name -> Panaccione
+	 (+)company -> 
+	 (+)address_1 -> Via Ugo Tognazzi 3
+	 (+)address_2 -> Scala D, citofono 88
+	 (+)city -> Milano
+	 (+)state -> MI
+	 (+)postcode -> 20128
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> stripe
+payment_method_title -> Carta di credito o debito
+transaction_id -> ch_3Kf2vRHHOCz2PuPR1HCmKND7
+customer_ip_address -> 31.156.131.239
+customer_user_agent -> Mozilla/5.0 (Linux; Android 10; SM-A505FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36
+created_via -> checkout
+customer_note -> Citofono oppure lasciare in portineria
+date_completed -> 2022-03-29T16:02:29
+date_paid -> 2022-03-19T15:06:40
+cart_hash -> 658c407f09dc6e2e1f30db3cb412be56
+number -> 15787
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 388978
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 388979
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 388980
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 388981
+		 (++)key -> _billing_cf
+		 (++)value -> PNCMRS85P42C034G
+	 (+)4 -> Array
+		 (++)id -> 388982
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 388983
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 388984
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 388985
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 178134639.1646083026
+	 (+)8 -> Array
+		 (++)id -> 388986
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 388987
+		 (++)key -> _wc_facebook_for_woocommerce_order_placed
+		 (++)value -> yes
+	 (+)10 -> Array
+		 (++)id -> 388988
+		 (++)key -> _stripe_customer_id
+		 (++)value -> cus_LLkQyhudGjvkJq
+	 (+)11 -> Array
+		 (++)id -> 388989
+		 (++)key -> _stripe_source_id
+		 (++)value -> src_1Kf2vOHHOCz2PuPRXHdt03HP
+	 (+)12 -> Array
+		 (++)id -> 388990
+		 (++)key -> _stripe_intent_id
+		 (++)value -> pi_3Kf2vRHHOCz2PuPR1jnYwvD7
+	 (+)13 -> Array
+		 (++)id -> 388991
+		 (++)key -> _stripe_charge_captured
+		 (++)value -> yes
+	 (+)14 -> Array
+		 (++)id -> 388992
+		 (++)key -> _stripe_fee
+		 (++)value -> 0.69
+	 (+)15 -> Array
+		 (++)id -> 388993
+		 (++)key -> _stripe_net
+		 (++)value -> 30.7
+	 (+)16 -> Array
+		 (++)id -> 388994
+		 (++)key -> _stripe_currency
+		 (++)value -> EUR
+	 (+)17 -> Array
+		 (++)id -> 389002
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)18 -> Array
+		 (++)id -> 389003
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+	 (+)19 -> Array
+		 (++)id -> 389012
+		 (++)key -> _wc_facebook_for_woocommerce_purchase_tracked
+		 (++)value -> yes
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 482
+		 (++)name -> Tappeto Digital Chenille Jungle C-3671 - 57x130
+		 (++)product_id -> 14184
+		 (++)variation_id -> 14191
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 23.40
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 23.40
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4089
+				 (++++)key -> pa_misura
+				 (++++)value -> 57x130
+				 (++++)display_key -> Misura
+				 (++++)display_value -> 57x130
+			 (+++)1 -> Array
+				 (++++)id -> 4096
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532864003
+		 (++)price -> 23.4
+		 (++)parent_name -> Tappeto Digital Chenille Jungle C-3671
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 483
+		 (++)method_title -> Tariffa unica
+		 (++)method_id -> flat_rate
+		 (++)instance_id -> 2
+		 (++)total -> 7.99
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 4095
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto Digital Chenille Jungle C-3671 - 57x130 &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto Digital Chenille Jungle C-3671 - 57x130 &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+refunds -> Array
+date_created_gmt -> 2022-03-19T14:06:36
+date_modified_gmt -> 2022-03-29T14:02:29
+date_completed_gmt -> 2022-03-29T14:02:29
+date_paid_gmt -> 2022-03-19T14:06:40
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15787
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders

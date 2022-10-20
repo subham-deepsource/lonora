@@ -1,0 +1,163 @@
+id -> 15662
+parent_id -> 0
+status -> completed
+currency -> EUR
+version -> 5.9.0
+prices_include_tax -> 
+date_created -> 2022-01-02T18:07:19
+date_modified -> 2022-01-13T16:05:53
+discount_total -> 14.50
+discount_tax -> 0.00
+shipping_total -> 0.00
+shipping_tax -> 0.00
+cart_tax -> 0.00
+total -> 0.00
+total_tax -> 0.00
+customer_id -> 0
+order_key -> wc_order_AGSDIvvAkodZH
+billing -> Array
+	 (+)first_name -> Manuela
+	 (+)last_name -> Canalella
+	 (+)company -> 
+	 (+)address_1 -> Via Sandro Botticelli, 23
+	 (+)address_2 -> 
+	 (+)city -> Palermo
+	 (+)state -> PA
+	 (+)postcode -> 90144
+	 (+)country -> IT
+	 (+)email -> manuela.canalella@gmail.com
+	 (+)phone -> 3922317599
+shipping -> Array
+	 (+)first_name -> Manuela
+	 (+)last_name -> Canalella
+	 (+)company -> 
+	 (+)address_1 -> Via Sandro Botticelli, 23
+	 (+)address_2 -> 
+	 (+)city -> Palermo
+	 (+)state -> PA
+	 (+)postcode -> 90144
+	 (+)country -> IT
+	 (+)phone -> 
+payment_method -> 
+payment_method_title -> 
+transaction_id -> 
+customer_ip_address -> 2.32.60.111
+customer_user_agent -> Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+created_via -> checkout
+customer_note -> 
+date_completed -> 2022-01-13T16:05:53
+date_paid -> 2022-01-02T18:07:19
+cart_hash -> a6776a3c94ab866de1a66531684170b2
+number -> 15662
+meta_data -> Array
+	 (+)0 -> Array
+		 (++)id -> 384559
+		 (++)key -> _billing_invoice_type
+		 (++)value -> receipt
+	 (+)1 -> Array
+		 (++)id -> 384560
+		 (++)key -> _billing_vat_system
+		 (++)value -> simple
+	 (+)2 -> Array
+		 (++)id -> 384561
+		 (++)key -> _billing_piva
+		 (++)value -> 
+	 (+)3 -> Array
+		 (++)id -> 384562
+		 (++)key -> _billing_cf
+		 (++)value -> CNLMNL98L41G273X
+	 (+)4 -> Array
+		 (++)id -> 384563
+		 (++)key -> _billing_pec
+		 (++)value -> 
+	 (+)5 -> Array
+		 (++)id -> 384564
+		 (++)key -> _billing_pa_code
+		 (++)value -> 
+	 (+)6 -> Array
+		 (++)id -> 384566
+		 (++)key -> is_vat_exempt
+		 (++)value -> no
+	 (+)7 -> Array
+		 (++)id -> 384567
+		 (++)key -> _wc_google_analytics_pro_identity
+		 (++)value -> 184406552.1641142132
+	 (+)8 -> Array
+		 (++)id -> 384568
+		 (++)key -> _wc_google_analytics_pro_placed
+		 (++)value -> yes
+	 (+)9 -> Array
+		 (++)id -> 384577
+		 (++)key -> _wc_google_analytics_pro_tracked
+		 (++)value -> yes
+	 (+)10 -> Array
+		 (++)id -> 384578
+		 (++)key -> _new_order_email_sent
+		 (++)value -> true
+line_items -> Array
+	 (+)0 -> Array
+		 (++)id -> 462
+		 (++)name -> Tappeto SETA COLLECTION Blu
+		 (++)product_id -> 12494
+		 (++)variation_id -> 0
+		 (++)quantity -> 1
+		 (++)tax_class -> 
+		 (++)subtotal -> 14.50
+		 (++)subtotal_tax -> 0.00
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3935
+				 (++++)key -> _reduced_stock
+				 (++++)value -> 1
+				 (++++)display_key -> _reduced_stock
+				 (++++)display_value -> 1
+		 (++)sku -> 8052532862665
+		 (++)price -> 0
+		 (++)parent_name -> 
+tax_lines -> Array
+shipping_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 463
+		 (++)method_title -> Spedizione gratuita
+		 (++)method_id -> free_shipping
+		 (++)instance_id -> 9
+		 (++)total -> 0.00
+		 (++)total_tax -> 0.00
+		 (++)taxes -> Array
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3931
+				 (++++)key -> Prodotti
+				 (++++)value -> Tappeto SETA COLLECTION Blu &times; 1
+				 (++++)display_key -> Prodotti
+				 (++++)display_value -> Tappeto SETA COLLECTION Blu &times; 1
+fee_lines -> Array
+coupon_lines -> Array
+	 (+)0 -> Array
+		 (++)id -> 464
+		 (++)code -> h2pt9shp
+		 (++)discount -> 14.5
+		 (++)discount_tax -> 0
+		 (++)meta_data -> Array
+			 (+++)0 -> Array
+				 (++++)id -> 3934
+				 (++++)key -> coupon_data
+				 (++++)value -> Array
+				 (++++)display_key -> coupon_data
+				 (++++)display_value -> Array
+refunds -> Array
+date_created_gmt -> 2022-01-02T17:07:19
+date_modified_gmt -> 2022-01-13T15:05:53
+date_completed_gmt -> 2022-01-13T15:05:53
+date_paid_gmt -> 2022-01-02T17:07:19
+currency_symbol -> €
+_links -> Array
+	 (+)self -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders/15662
+	 (+)collection -> Array
+		 (++)0 -> Array
+			 (+++)href -> https://lonora.it/wp-json/wc/v3/orders
